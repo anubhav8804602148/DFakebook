@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <script src="{% static 'js/lib/jquery.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/lib/bootstrap.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <link  rel="stylesheet" href="{% static 'css/lib/bootstrap.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/navbar-style.css' %}" >
+    <link rel="icon" href="{% static 'images/applicationIcon.png' %}">
+    <meta charset="UTF-8">
+    <title>Register | Fakebook</title>
+</head>
+<body>
+    {% include './navbar.html' %}
+    <form class="centralized-form" method="post">
+        <label style="position:static;">{{error}}</label>
+        <div style="font-size:2vw;padding-left:5vw;"><b>Register</b></div>
+        <table>
+            <tr>
+                <td>Username</td><td><input type="text" name="username"></td>
+            </tr>
+            <tr>
+                <td>Email</td><td><input type="email" name="email"></td>
+            </tr>
+            <tr>
+                <td>Password</td><td><input type="password" name="password"></td>
+            </tr>
+            <tr>
+                <td>Confirm Password</td><td><input type="password" name="confirmPassword"></td>
+            </tr>
+            <tr>
+                <td style="padding:2vw;" colspan="2">
+                    <button class="btn btn-default">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </td>
+            </tr>
+        </table>
+        {% csrf_token %}
+    </form>
+</body>
+</html>

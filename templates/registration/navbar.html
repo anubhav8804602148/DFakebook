@@ -1,0 +1,17 @@
+<div id="fakebookNavbar">
+    <label class="fakebook-header-label">Fakebook</label>
+
+    {% if request.user.is_authenticated %}
+    <button style="float:right;margin:2vw;"
+            class="btn btn-default"
+            onclick="window.location.href='/accounts/logout'">{{request.user.username}}<br>Logout</button>
+    {% elif 'login' in request.path  %}
+    <button style="float:right;margin:2vw;"
+         class="btn btn-default"
+         onclick="window.location.href='/register/'">Register</button>
+    {% elif 'register' in request.path %}
+    <button style="float:right;margin:2vw;"
+            class="btn btn-default"
+            onclick="window.location.href='/accounts/login/'">Login</button>
+    {% endif %}
+</div>
