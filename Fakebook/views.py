@@ -1,31 +1,42 @@
-from django.shortcuts import render
+import logging
+
+from django.shortcuts import render, redirect
+from util.Parser import request_data_to_user
 from .forms import RegistrationForm
-from django.contrib.auth.models import User
-from logger.Logger import Logger
-from django.contrib.auth.hashers import make_password
+from util.Logger import Logger
+from util.UserValidator import MSG_USERDATA_VALID
 
 REGISTER_PAGE = "registration/register.html"
 LOGIN_PAGE = "registration/login.html"
-logger = Logger("fakebook_logger.log")
+logger = Logger("fakebook.log")
+
+
+def show_login_page(request, redirect_params=None):
+    logger.log_request(request)
+    return render(request, LOGIN_PAGE, redirect_params)
 
 
 def show_register_page(request):
     logger.log_request(request)
 
     if request.method == 'GET':
-        return render(request, REGISTER_PAGE, {"form": RegistrationForm()})
+        return render(request, REGISTER_PAGE, {"form": request.GET})
 
     if request.method == 'POST':
-        if request.POST.get('password') != request.POST.get('confirmPassword'):
-            return render(request, REGISTER_PAGE, {
-                "form": request.POST,
-                "error": "Password should match confirm password"
-            })
-
-        user = User()
-        user.username = request.POST.get('username')
-        user.email = request.POST.get('email')
-        user.password = make_password(request.POST.get('password'))
-        user.save()
-        return render(request, LOGIN_PAGE)
-    return render(request, REGISTER_PAGE)
+        try:
+            validation_message = RegistrationForm(request.POST).validate()
+            if validation_message == MSG_USERDATA_VALID:
+                request_data_to_user(request.POST).save()
+                return redirect("login")
+        except Exception as err:
+            validation_message = str(err)
+            logging.log(0, err)
+        return render(request, REGISTER_PAGE, {
+            "form": request.POST,
+            "message": validation_message,
+            "color": "red"
+        })
+    return render(request, REGISTER_PAGE, {
+        "message": "Only GET and POST methods allowed. Are you debugging?",
+        "color": "orange"
+    })

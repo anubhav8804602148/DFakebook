@@ -1,13 +1,16 @@
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-LOGIN_REDIRECT_URL = '/home'
+LOGIN_REDIRECT_URL = '/application/all_apps'
+LOGOUT_REDIRECT_URL = '/login'
 SECRET_KEY = 'django-insecure-xue!ug6u5(3@w-_s@=n+0eqqy%uka=8zuy$*pp91ow$btr6nt2'
 DEBUG = True
 
 ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
+    'Fakebook',
+    'ManageApplications',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -63,6 +66,34 @@ AUTH_PASSWORD_VALIDATORS = [
     {'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator', },
     {'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator', },
 ]
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'logfile': {
+            'class': 'logging.handlers.WatchedFileHandler',
+            'filename': 'fakebook.log'
+        },
+    },
+    'loggers': {
+        'django.request': {
+            'handlers': ['logfile'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'django': {
+            'handlers': ['logfile'],
+            'level': 'INFO',
+            'propagate': False,
+        },
+        'fakebook': {
+            'handlers': ['logfile'],
+            'level': 'INFO',
+            'propagate': False
+        },
+    },
+}
 
 STATIC_ROOT = ''
 STATIC_URL = '/static/'

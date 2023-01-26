@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <script src="{% static 'js/lib/jquery.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/lib/bootstrap.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/all-apps.js' %}"></script>
+    <link  rel="stylesheet" href="{% static 'css/lib/bootstrap.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/navbar-style.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/all-apps.css' %}" >
+    <link rel="icon" href="{% static 'images/applicationIcon.png' %}">
+    <meta charset="UTF-8">
+    <title>Login | Fakebook</title>
+</head>
+<body>
+    {% include 'registration/navbar.html' %}
+    <div id="all-apps-container">
+        <div class="app app-item">
+            <button onclick="show_add_application_modal()"><img src="{% static 'images/addApplicationIcon.png' %}"></button>
+        </div>
+        {% for app in app_list %}
+        {% endfor %}
+    </div>
+    {% include 'add-application-modal.html' %}
+</body>
+</html>

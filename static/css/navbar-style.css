@@ -17,7 +17,7 @@
 }
 .centralized-form{
     position:absolute;
-    top:25%;
+    top:30%;
     left:5%;
 }
 .centralized-form td,button{
@@ -26,4 +26,7 @@
 .welcome-message-label{
     float:right;
     padding:2vw;
+}
+.navbar-action-button{
+    width:8vw;
 }

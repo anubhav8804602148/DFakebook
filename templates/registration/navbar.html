@@ -3,15 +3,38 @@
 
     {% if request.user.is_authenticated %}
     <button style="float:right;margin:2vw;"
-            class="btn btn-default"
-            onclick="window.location.href='/accounts/logout'">{{request.user.username}}<br>Logout</button>
+            class="btn btn-default navbar-action-button"
+            onclick="window.location.href='/logout'">Logout</button>
+    <label style="float:right;
+                 color:white;
+                 margin-top:5vh;">{{request.user.username}}</label>
     {% elif 'login' in request.path  %}
     <button style="float:right;margin:2vw;"
-         class="btn btn-default"
-         onclick="window.location.href='/register/'">Register</button>
+         class="btn btn-default navbar-action-button"
+         onclick="window.location.href='/register'">Register</button>
     {% elif 'register' in request.path %}
     <button style="float:right;margin:2vw;"
-            class="btn btn-default"
-            onclick="window.location.href='/accounts/login/'">Login</button>
+            class="btn btn-default navbar-action-button"
+            onclick="window.location.href='/login/'">Login</button>
+    {% endif %}
+
+    {% if form.user.errors %}
+    <label style="position:absolute;
+                  top:20vh;
+                  left:5vw;
+                  font-size:12px;
+                  color:red;
+                  min-height:5vh;
+                  max-width:30vw;
+                  overflow-wrap:break-word;">{{form.user.errors}}</label>
+    {% else %}
+    <label style="position:absolute;
+                  top:20vh;
+                  left:5vw;
+                  font-size:12px;
+                  color:{{color}};
+                  min-height:5vh;
+                  max-width:30vw;
+                  overflow-wrap:break-word;">{{message}}</label>
     {% endif %}
 </div>

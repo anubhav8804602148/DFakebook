@@ -15,14 +15,13 @@
 <body>
     {% include './navbar.html' %}
     <form class="centralized-form" method="post">
-        <label style="position:static;">{{error}}</label>
         <div style="font-size:2vw;padding-left:5vw;"><b>Register</b></div>
         <table>
             <tr>
-                <td>Username</td><td><input type="text" name="username"></td>
+                <td>Username</td><td><input type="text" name="username" value="{{form.username}}"></td>
             </tr>
             <tr>
-                <td>Email</td><td><input type="email" name="email"></td>
+                <td>Email</td><td><input type="email" name="email" value="{{form.email}}"></td>
             </tr>
             <tr>
                 <td>Password</td><td><input type="password" name="password"></td>
@@ -32,7 +31,7 @@
             </tr>
             <tr>
                 <td style="padding:2vw;" colspan="2">
-                    <button class="btn btn-default">Cancel</button>
+                    <button type="reset" class="btn btn-default">Cancel</button>
                     <button type="submit" class="btn btn-primary">Register</button>
                 </td>
             </tr>
