@@ -29,3 +29,4 @@ class RegistrationForm(forms.Form):
             return MSG_USERNAME_INVALID
         validators.validate_email(self.email)
         return MSG_USERDATA_VALID
+

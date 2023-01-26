@@ -3572,3 +3572,2910 @@ Watching for file changes with StatReloader
 "GET /static/js/all-apps.js HTTP/1.1" 304 0
 "GET /logout/ HTTP/1.1" 302 0
 "GET /login/ HTTP/1.1" 200 1916
+Watching for file changes with StatReloader
+2023-01-26 14:52:45.418400] ======================== REQUEST ==============================] 
+2023-01-26 14:52:45.428400] Method : GET] 
+2023-01-26 14:52:45.439417] POST : <QueryDict: {}>] 
+2023-01-26 14:52:45.450489] GET : <QueryDict: {}>] 
+2023-01-26 14:52:45.460401] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/navbar-style.css HTTP/1.1" 304 0
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 14:52:49.173850] ======================== REQUEST ==============================] 
+2023-01-26 14:52:49.184769] Method : GET] 
+2023-01-26 14:52:49.194762] POST : <QueryDict: {}>] 
+2023-01-26 14:52:49.205774] GET : <QueryDict: {}>] 
+2023-01-26 14:52:49.216799] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/js/all-apps.js HTTP/1.1" 304 0
+"GET /static/css/all-apps.css HTTP/1.1" 304 0
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 304 0
+2023-01-26 14:52:55.867370] ======================== REQUEST ==============================] 
+2023-01-26 14:52:55.877369] Method : GET] 
+2023-01-26 14:52:55.887370] POST : <QueryDict: {}>] 
+2023-01-26 14:52:55.896369] GET : <QueryDict: {}>] 
+2023-01-26 14:52:55.906375] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+2023-01-26 14:53:31.235675] ======================== REQUEST ==============================] 
+2023-01-26 14:53:31.246703] Method : GET] 
+2023-01-26 14:53:31.256733] POST : <QueryDict: {}>] 
+2023-01-26 14:53:31.264771] GET : <QueryDict: {}>] 
+2023-01-26 14:53:31.274780] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 14:53:49.289855] ======================== REQUEST ==============================] 
+2023-01-26 14:53:49.301953] Method : GET] 
+2023-01-26 14:53:49.310870] POST : <QueryDict: {}>] 
+2023-01-26 14:53:49.319884] GET : <QueryDict: {}>] 
+2023-01-26 14:53:49.328968] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 14:53:55.147949] ======================== REQUEST ==============================] 
+2023-01-26 14:53:55.161036] Method : GET] 
+2023-01-26 14:53:55.172049] POST : <QueryDict: {}>] 
+2023-01-26 14:53:55.180969] GET : <QueryDict: {}>] 
+2023-01-26 14:53:55.192996] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/all-apps.css HTTP/1.1" 304 0
+2023-01-26 14:53:57.685076] ======================== REQUEST ==============================] 
+2023-01-26 14:53:57.699084] Method : GET] 
+2023-01-26 14:53:57.710089] POST : <QueryDict: {}>] 
+2023-01-26 14:53:57.721095] GET : <QueryDict: {}>] 
+2023-01-26 14:53:57.731099] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/all-apps.css HTTP/1.1" 304 0
+2023-01-26 14:55:52.087576] ======================== REQUEST ==============================] 
+2023-01-26 14:55:52.095601] Method : GET] 
+2023-01-26 14:55:52.111711] POST : <QueryDict: {}>] 
+2023-01-26 14:55:52.119676] GET : <QueryDict: {}>] 
+2023-01-26 14:55:52.135623] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 14:55:52.700904] ======================== REQUEST ==============================] 
+2023-01-26 14:55:52.708905] Method : GET] 
+2023-01-26 14:55:52.724904] POST : <QueryDict: {}>] 
+2023-01-26 14:55:52.732911] GET : <QueryDict: {}>] 
+2023-01-26 14:55:52.748903] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 14:55:52.915935] ======================== REQUEST ==============================] 
+2023-01-26 14:55:52.923939] Method : GET] 
+2023-01-26 14:55:52.939943] POST : <QueryDict: {}>] 
+2023-01-26 14:55:52.947934] GET : <QueryDict: {}>] 
+2023-01-26 14:55:52.955935] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"POST /login/ HTTP/1.1" 200 1916
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:09:06.706660] ======================== REQUEST ==============================] 
+2023-01-26 15:09:06.716008] Method : GET] 
+2023-01-26 15:09:06.725795] POST : <QueryDict: {}>] 
+2023-01-26 15:09:06.736489] GET : <QueryDict: {}>] 
+2023-01-26 15:09:06.745961] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/all-apps.css HTTP/1.1" 304 0
+2023-01-26 15:09:10.615251] ======================== REQUEST ==============================] 
+2023-01-26 15:09:10.625252] Method : GET] 
+2023-01-26 15:09:10.634785] POST : <QueryDict: {}>] 
+2023-01-26 15:09:10.642793] GET : <QueryDict: {}>] 
+2023-01-26 15:09:10.650793] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"POST /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+2023-01-26 15:13:15.346229] ======================== REQUEST ==============================] 
+2023-01-26 15:13:15.360225] Method : POST] 
+2023-01-26 15:13:15.371227] POST : <QueryDict: {'username': ['anub3443sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['0Uvd5oRTymfdW5dopcwmD1iyRxgyAIMvDF9jUGk1ED7kgH0N2wPNBuesK5P2TxAm']}>] 
+2023-01-26 15:13:15.382296] GET : <QueryDict: {}>] 
+2023-01-26 15:13:15.392226] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 26, in show_login_page
+    return render(request, login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'AuthenticationForm'
+"POST /login/ HTTP/1.1" 500 125285
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+2023-01-26 15:14:01.808138] ======================== REQUEST ==============================] 
+2023-01-26 15:14:01.820169] Method : POST] 
+2023-01-26 15:14:01.830113] POST : <QueryDict: {'username': ['anub3443sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['0Uvd5oRTymfdW5dopcwmD1iyRxgyAIMvDF9jUGk1ED7kgH0N2wPNBuesK5P2TxAm']}>] 
+2023-01-26 15:14:01.839120] GET : <QueryDict: {}>] 
+2023-01-26 15:14:01.848177] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 26, in show_login_page
+    return render(request, login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'AuthenticationForm'
+"POST /login/ HTTP/1.1" 500 125285
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+2023-01-26 15:15:36.167546] ======================== REQUEST ==============================] 
+2023-01-26 15:15:36.179543] Method : GET] 
+2023-01-26 15:15:36.189555] POST : <QueryDict: {}>] 
+2023-01-26 15:15:36.197857] GET : <QueryDict: {}>] 
+2023-01-26 15:15:36.207096] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:15:43.573621] ======================== REQUEST ==============================] 
+2023-01-26 15:15:43.583642] Method : POST] 
+2023-01-26 15:15:43.594509] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['qC8OzsBg0uelsZQJNiO4IHriGgpfoPUY3nMUoK4o6L6sMBD8qC7vGanczOYJHEIP']}>] 
+2023-01-26 15:15:43.603509] GET : <QueryDict: {}>] 
+2023-01-26 15:15:43.612765] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 26, in show_login_page
+    return render(request, login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'AuthenticationForm'
+"POST /login/ HTTP/1.1" 500 125157
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:16:08.381384] ======================== REQUEST ==============================] 
+2023-01-26 15:16:08.392391] Method : GET] 
+2023-01-26 15:16:08.403390] POST : <QueryDict: {}>] 
+2023-01-26 15:16:08.411396] GET : <QueryDict: {}>] 
+2023-01-26 15:16:08.421431] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:16:10.043767] ======================== REQUEST ==============================] 
+2023-01-26 15:16:10.056771] Method : POST] 
+2023-01-26 15:16:10.065767] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['aigqOUpmYhRG4bl6YhWKPLJYLKXNVJBpN3UwDcSu4yJNoN8vBBfbNeFSEiwheypg']}>] 
+2023-01-26 15:16:10.076770] GET : <QueryDict: {}>] 
+2023-01-26 15:16:10.086808] ===================== END REQUEST =============================] 
+2023-01-26 15:16:10.219668] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    return redirect("")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 83550
+Watching for file changes with StatReloader
+2023-01-26 15:16:40.794760] ======================== REQUEST ==============================] 
+2023-01-26 15:16:40.804128] Method : GET] 
+2023-01-26 15:16:40.812411] POST : <QueryDict: {}>] 
+2023-01-26 15:16:40.821423] GET : <QueryDict: {}>] 
+2023-01-26 15:16:40.830365] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:16:42.615687] ======================== REQUEST ==============================] 
+2023-01-26 15:16:42.628490] Method : POST] 
+2023-01-26 15:16:42.638497] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['bGKGEUp7ZLQmgAEB0s66Qtdbt6ih3p9XOroMtcSf52ItAcr0DMpxOW95mERLmeXO']}>] 
+2023-01-26 15:16:42.647497] GET : <QueryDict: {}>] 
+2023-01-26 15:16:42.657607] ===================== END REQUEST =============================] 
+2023-01-26 15:21:28.014906] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Watching for file changes with StatReloader
+2023-01-26 15:22:24.975578] ======================== REQUEST ==============================] 
+2023-01-26 15:22:24.986577] Method : POST] 
+2023-01-26 15:22:24.998579] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['bGKGEUp7ZLQmgAEB0s66Qtdbt6ih3p9XOroMtcSf52ItAcr0DMpxOW95mERLmeXO']}>] 
+2023-01-26 15:22:25.009578] GET : <QueryDict: {}>] 
+2023-01-26 15:22:25.021579] ===================== END REQUEST =============================] 
+2023-01-26 15:22:25.179576] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    return redirect("applications")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'applications' not found. 'applications' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 83910
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:22:33.265106] ======================== REQUEST ==============================] 
+2023-01-26 15:22:33.275107] Method : POST] 
+2023-01-26 15:22:33.284107] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['bGKGEUp7ZLQmgAEB0s66Qtdbt6ih3p9XOroMtcSf52ItAcr0DMpxOW95mERLmeXO']}>] 
+2023-01-26 15:22:33.292106] GET : <QueryDict: {}>] 
+2023-01-26 15:22:33.302108] ===================== END REQUEST =============================] 
+2023-01-26 15:22:33.453104] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    return redirect("application")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'application' not found. 'application' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 83892
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+2023-01-26 15:22:36.787870] ======================== REQUEST ==============================] 
+2023-01-26 15:22:36.814564] Method : GET] 
+2023-01-26 15:22:36.823583] POST : <QueryDict: {}>] 
+2023-01-26 15:22:36.834572] GET : <QueryDict: {}>] 
+2023-01-26 15:22:36.843112] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:22:38.951515] ======================== REQUEST ==============================] 
+2023-01-26 15:22:38.964973] Method : POST] 
+2023-01-26 15:22:38.974063] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['FNNErs2rl7a0CyQUtjiU7lr4eB9RPzYqiyrKgKvzro27WaDj6DBl5OnY79Il8oMh']}>] 
+2023-01-26 15:22:38.984143] GET : <QueryDict: {}>] 
+2023-01-26 15:22:38.993061] ===================== END REQUEST =============================] 
+2023-01-26 15:22:39.121384] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    return redirect("application")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'application' not found. 'application' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 83764
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:23:07.311413] ======================== REQUEST ==============================] 
+2023-01-26 15:23:07.322381] Method : POST] 
+2023-01-26 15:23:07.333388] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['FNNErs2rl7a0CyQUtjiU7lr4eB9RPzYqiyrKgKvzro27WaDj6DBl5OnY79Il8oMh']}>] 
+2023-01-26 15:23:07.341478] GET : <QueryDict: {}>] 
+2023-01-26 15:23:07.352180] ===================== END REQUEST =============================] 
+2023-01-26 15:23:07.487266] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    return redirect("all_apps")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'all_apps' not found. 'all_apps' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 83838
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:23:21.189796] ======================== REQUEST ==============================] 
+2023-01-26 15:23:21.201254] Method : POST] 
+2023-01-26 15:23:21.209943] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['FNNErs2rl7a0CyQUtjiU7lr4eB9RPzYqiyrKgKvzro27WaDj6DBl5OnY79Il8oMh']}>] 
+2023-01-26 15:23:21.219031] GET : <QueryDict: {}>] 
+2023-01-26 15:23:21.229824] ===================== END REQUEST =============================] 
+2023-01-26 15:23:21.365824] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+Not Found: /login/application/all_apps
+"GET /login/application/all_apps HTTP/1.1" 404 2378
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:23:38.825061] ======================== REQUEST ==============================] 
+2023-01-26 15:23:38.839112] Method : GET] 
+2023-01-26 15:23:38.849387] POST : <QueryDict: {}>] 
+2023-01-26 15:23:38.859304] GET : <QueryDict: {}>] 
+2023-01-26 15:23:38.868493] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:23:41.830777] ======================== REQUEST ==============================] 
+2023-01-26 15:23:41.845780] Method : GET] 
+2023-01-26 15:23:41.855778] POST : <QueryDict: {}>] 
+2023-01-26 15:23:41.864776] GET : <QueryDict: {}>] 
+2023-01-26 15:23:41.874779] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:23:43.316757] ======================== REQUEST ==============================] 
+2023-01-26 15:23:43.329753] Method : POST] 
+2023-01-26 15:23:43.338753] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Y6sz3oyxlSaUP57O9HJMbtC3I6w3DcuEBR6FSG1Fr9219HUdM12d9WyXBE5xW1iv']}>] 
+2023-01-26 15:23:43.348791] GET : <QueryDict: {}>] 
+2023-01-26 15:23:43.358542] ===================== END REQUEST =============================] 
+2023-01-26 15:23:43.618733] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:23:43.634732] ======================== REQUEST ==============================] 
+2023-01-26 15:23:43.645818] Method : GET] 
+2023-01-26 15:23:43.655700] POST : <QueryDict: {}>] 
+2023-01-26 15:23:43.666756] GET : <QueryDict: {}>] 
+2023-01-26 15:23:43.676799] ===================== END REQUEST =============================] 
+Internal Server Error: /application/all_apps
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py", line 14, in show_select_application_page
+    return redirect("login")
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+"GET /application/all_apps HTTP/1.1" 500 82545
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:25:12.823573] ======================== REQUEST ==============================] 
+2023-01-26 15:25:12.833667] Method : GET] 
+2023-01-26 15:25:12.843686] POST : <QueryDict: {}>] 
+2023-01-26 15:25:12.852617] GET : <QueryDict: {}>] 
+2023-01-26 15:25:12.863574] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:25:12.882574] ======================== REQUEST ==============================] 
+2023-01-26 15:25:12.893577] Method : GET] 
+2023-01-26 15:25:12.903574] POST : <QueryDict: {}>] 
+2023-01-26 15:25:12.916582] GET : <QueryDict: {}>] 
+2023-01-26 15:25:12.926587] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:25:14.812557] ======================== REQUEST ==============================] 
+2023-01-26 15:25:14.825556] Method : POST] 
+2023-01-26 15:25:14.834714] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['p2CKSZE0XFLiqzt6q0uP01cWyoNLEGIK2NgQHh783WDpKbgv3kNgYu8QrWmfXvwB']}>] 
+2023-01-26 15:25:14.845676] GET : <QueryDict: {}>] 
+2023-01-26 15:25:14.856030] ===================== END REQUEST =============================] 
+2023-01-26 15:25:14.990429] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:25:15.005697] ======================== REQUEST ==============================] 
+2023-01-26 15:25:15.018692] Method : GET] 
+2023-01-26 15:25:15.032692] POST : <QueryDict: {}>] 
+2023-01-26 15:25:15.045337] GET : <QueryDict: {}>] 
+2023-01-26 15:25:15.053456] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:25:15.070348] ======================== REQUEST ==============================] 
+2023-01-26 15:25:15.082344] Method : GET] 
+2023-01-26 15:25:15.093344] POST : <QueryDict: {}>] 
+2023-01-26 15:25:15.103431] GET : <QueryDict: {}>] 
+2023-01-26 15:25:15.114492] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:28:59.418786] ======================== REQUEST ==============================] 
+2023-01-26 15:28:59.429870] Method : GET] 
+2023-01-26 15:28:59.440788] POST : <QueryDict: {}>] 
+2023-01-26 15:28:59.450800] GET : <QueryDict: {}>] 
+2023-01-26 15:28:59.460783] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:29:01.237053] ======================== REQUEST ==============================] 
+2023-01-26 15:29:01.250054] Method : POST] 
+2023-01-26 15:29:01.261539] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Y8pNknuAzOjZsANF3WzVyHfIv49oyuzRBT3T9FXIF5b6McA4GgSmwabCoCISRjnI']}>] 
+2023-01-26 15:29:01.270842] GET : <QueryDict: {}>] 
+2023-01-26 15:29:01.278945] ===================== END REQUEST =============================] 
+2023-01-26 15:29:01.412869] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:29:01.428841] ======================== REQUEST ==============================] 
+2023-01-26 15:29:01.439875] Method : GET] 
+2023-01-26 15:29:01.452840] POST : <QueryDict: {}>] 
+2023-01-26 15:29:01.462900] GET : <QueryDict: {}>] 
+2023-01-26 15:29:01.472885] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:29:01.493986] ======================== REQUEST ==============================] 
+2023-01-26 15:29:01.503885] Method : GET] 
+2023-01-26 15:29:01.512897] POST : <QueryDict: {}>] 
+2023-01-26 15:29:01.525905] GET : <QueryDict: {}>] 
+2023-01-26 15:29:01.536897] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:30:11.032910] ======================== REQUEST ==============================] 
+2023-01-26 15:30:11.047910] Method : POST] 
+2023-01-26 15:30:11.058910] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['MB2TEuABKaRmuEvltlPa1ZkMhd9qLDn9pmGZtM3JQrJtOgiK6F8BZsgGaLIU4sb0']}>] 
+2023-01-26 15:30:11.069380] GET : <QueryDict: {}>] 
+2023-01-26 15:30:11.078389] ===================== END REQUEST =============================] 
+2023-01-26 15:30:11.326483] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:30:11.342483] ======================== REQUEST ==============================] 
+2023-01-26 15:30:11.354484] Method : GET] 
+2023-01-26 15:30:11.367567] POST : <QueryDict: {}>] 
+2023-01-26 15:30:11.377577] GET : <QueryDict: {}>] 
+2023-01-26 15:30:11.388485] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:30:11.405507] ======================== REQUEST ==============================] 
+2023-01-26 15:30:11.415485] Method : GET] 
+2023-01-26 15:30:11.427180] POST : <QueryDict: {}>] 
+2023-01-26 15:30:11.438199] GET : <QueryDict: {}>] 
+2023-01-26 15:30:11.450378] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:30:41.098828] ======================== REQUEST ==============================] 
+2023-01-26 15:30:41.110134] Method : GET] 
+2023-01-26 15:30:41.120139] POST : <QueryDict: {}>] 
+2023-01-26 15:30:41.130172] GET : <QueryDict: {}>] 
+2023-01-26 15:30:41.138918] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:30:42.444756] ======================== REQUEST ==============================] 
+2023-01-26 15:30:42.457755] Method : POST] 
+2023-01-26 15:30:42.468755] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Z60rNI2DlMPiqzZsHHelbVZYj0LL5onFCRExC0vLr3HpKbMRk1xM9oVScykfodbw']}>] 
+2023-01-26 15:30:42.480757] GET : <QueryDict: {}>] 
+2023-01-26 15:30:42.491757] ===================== END REQUEST =============================] 
+2023-01-26 15:30:42.633765] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:30:42.649767] ======================== REQUEST ==============================] 
+2023-01-26 15:30:42.661762] Method : GET] 
+2023-01-26 15:30:42.673754] POST : <QueryDict: {}>] 
+2023-01-26 15:30:42.684785] GET : <QueryDict: {}>] 
+2023-01-26 15:30:42.694836] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:30:42.714756] ======================== REQUEST ==============================] 
+2023-01-26 15:30:42.727755] Method : GET] 
+2023-01-26 15:30:42.742753] POST : <QueryDict: {}>] 
+2023-01-26 15:30:42.755754] GET : <QueryDict: {}>] 
+2023-01-26 15:30:42.767753] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:30:44.553669] ======================== REQUEST ==============================] 
+2023-01-26 15:30:44.565673] Method : POST] 
+2023-01-26 15:30:44.576668] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['63mRKXWnEi85wJTsgjBppnVBdJXW2VErJO0XzfpvKz0cQlGRTDUQnQRv6hwqlKsi']}>] 
+2023-01-26 15:30:44.589667] GET : <QueryDict: {}>] 
+2023-01-26 15:30:44.601669] ===================== END REQUEST =============================] 
+2023-01-26 15:30:44.740666] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:30:44.754666] ======================== REQUEST ==============================] 
+2023-01-26 15:30:44.767667] Method : GET] 
+2023-01-26 15:30:44.776666] POST : <QueryDict: {}>] 
+2023-01-26 15:30:44.787664] GET : <QueryDict: {}>] 
+2023-01-26 15:30:44.799665] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:30:44.816746] ======================== REQUEST ==============================] 
+2023-01-26 15:30:44.827665] Method : GET] 
+2023-01-26 15:30:44.838665] POST : <QueryDict: {}>] 
+2023-01-26 15:30:44.849668] GET : <QueryDict: {}>] 
+2023-01-26 15:30:44.858672] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:35:15.537539] ======================== REQUEST ==============================] 
+2023-01-26 15:35:15.547574] Method : GET] 
+2023-01-26 15:35:15.556572] POST : <QueryDict: {}>] 
+2023-01-26 15:35:15.565600] GET : <QueryDict: {}>] 
+2023-01-26 15:35:15.574683] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:35:16.798491] ======================== REQUEST ==============================] 
+2023-01-26 15:35:16.811383] Method : POST] 
+2023-01-26 15:35:16.820069] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['XrfFXOgc6z5oVn8tRNIyXJxO32bpu8VRAcTLM6JkcQXvfZVSu71ZVctIWAKTNXJI']}>] 
+2023-01-26 15:35:16.831125] GET : <QueryDict: {}>] 
+2023-01-26 15:35:16.840934] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 23, in show_login_page
+    authenticate(username=login_form.username, password=login_form.password)
+AttributeError: 'AuthenticationForm' object has no attribute 'username'
+"POST /login/ HTTP/1.1" 500 65471
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+Watching for file changes with StatReloader
+2023-01-26 15:39:18.444924] ======================== REQUEST ==============================] 
+2023-01-26 15:39:18.457925] Method : POST] 
+2023-01-26 15:39:18.471924] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['XrfFXOgc6z5oVn8tRNIyXJxO32bpu8VRAcTLM6JkcQXvfZVSu71ZVctIWAKTNXJI']}>] 
+2023-01-26 15:39:18.482924] GET : <QueryDict: {}>] 
+2023-01-26 15:39:18.492924] ===================== END REQUEST =============================] 
+Watching for file changes with StatReloader
+2023-01-26 15:40:55.827202] ======================== REQUEST ==============================] 
+2023-01-26 15:40:55.842199] Method : POST] 
+2023-01-26 15:40:55.854200] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['XrfFXOgc6z5oVn8tRNIyXJxO32bpu8VRAcTLM6JkcQXvfZVSu71ZVctIWAKTNXJI']}>] 
+2023-01-26 15:40:55.867202] GET : <QueryDict: {}>] 
+2023-01-26 15:40:55.879200] ===================== END REQUEST =============================] 
+2023-01-26 15:40:56.234204] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:40:56.248199] ======================== REQUEST ==============================] 
+2023-01-26 15:40:56.262198] Method : GET] 
+2023-01-26 15:40:56.274198] POST : <QueryDict: {}>] 
+2023-01-26 15:40:56.285200] GET : <QueryDict: {}>] 
+2023-01-26 15:40:56.297199] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:40:56.312198] ======================== REQUEST ==============================] 
+2023-01-26 15:40:56.325200] Method : GET] 
+2023-01-26 15:40:56.337200] POST : <QueryDict: {}>] 
+2023-01-26 15:40:56.349204] GET : <QueryDict: {}>] 
+2023-01-26 15:40:56.361199] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:40:58.255710] ======================== REQUEST ==============================] 
+2023-01-26 15:40:58.269745] Method : POST] 
+2023-01-26 15:40:58.280065] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['WErYHJceaAaQswIhF2Nmh2Qqo3jVoJIPzp54w1FmgR2XM8vGim6NfvMkhBSpHywG']}>] 
+2023-01-26 15:40:58.292068] GET : <QueryDict: {}>] 
+2023-01-26 15:40:58.302064] ===================== END REQUEST =============================] 
+2023-01-26 15:40:58.546070] User logged in : <tr>
+    <th><label for="id_username">Username:</label></th>
+    <td>
+      
+      <input type="text" name="username" value="anubhav.sharma" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+      
+      
+    </td>
+  </tr>
+
+  <tr>
+    <th><label for="id_password">Password:</label></th>
+    <td>
+      
+      <input type="password" name="password" autocomplete="current-password" required id="id_password">
+      
+      
+        
+      
+    </td>
+  </tr>] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 15:40:58.562067] ======================== REQUEST ==============================] 
+2023-01-26 15:40:58.576072] Method : GET] 
+2023-01-26 15:40:58.587095] POST : <QueryDict: {}>] 
+2023-01-26 15:40:58.598069] GET : <QueryDict: {}>] 
+2023-01-26 15:40:58.610066] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 15:40:58.628066] ======================== REQUEST ==============================] 
+2023-01-26 15:40:58.639067] Method : GET] 
+2023-01-26 15:40:58.651066] POST : <QueryDict: {}>] 
+2023-01-26 15:40:58.663064] GET : <QueryDict: {}>] 
+2023-01-26 15:40:58.674067] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:44:25.304994] ======================== REQUEST ==============================] 
+2023-01-26 15:44:25.315521] Method : GET] 
+2023-01-26 15:44:25.325515] POST : <QueryDict: {}>] 
+2023-01-26 15:44:25.335923] GET : <QueryDict: {}>] 
+2023-01-26 15:44:25.344932] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:44:26.589418] ======================== REQUEST ==============================] 
+2023-01-26 15:44:26.603409] Method : POST] 
+2023-01-26 15:44:26.614409] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['q6arEJR0hZiUFSNtcVuiF1UFY1sbcsWX3ROxt1k8nga1ZuASPfNJDuQzRz1FvhKO']}>] 
+2023-01-26 15:44:26.624409] GET : <QueryDict: {}>] 
+2023-01-26 15:44:26.635511] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 32, in show_login_page
+    return render(request, login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'AuthenticationForm'
+"POST /login/ HTTP/1.1" 500 124930
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:45:49.216200] ======================== REQUEST ==============================] 
+2023-01-26 15:45:49.232157] Method : GET] 
+2023-01-26 15:45:49.246159] POST : <QueryDict: {}>] 
+2023-01-26 15:45:49.255154] GET : <QueryDict: {}>] 
+2023-01-26 15:45:49.267158] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+2023-01-26 15:45:49.283157] ======================== REQUEST ==============================] 
+2023-01-26 15:45:49.295160] Method : GET] 
+2023-01-26 15:45:49.305157] POST : <QueryDict: {}>] 
+2023-01-26 15:45:49.317236] GET : <QueryDict: {}>] 
+2023-01-26 15:45:49.328188] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:45:51.572598] ======================== REQUEST ==============================] 
+2023-01-26 15:45:51.584696] Method : POST] 
+2023-01-26 15:45:51.595593] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['i2iJNGRZf68opVyR0Xk86AYq0KcOvLxEVNWPCYk7ln0vJxlgDhDz43UkTiLiOAlv']}>] 
+2023-01-26 15:45:51.604697] GET : <QueryDict: {}>] 
+2023-01-26 15:45:51.614611] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 29, in show_login_page
+    return render(request, login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'AuthenticationForm'
+"POST /login/ HTTP/1.1" 500 125052
+Watching for file changes with StatReloader
+2023-01-26 15:46:32.693926] ======================== REQUEST ==============================] 
+2023-01-26 15:46:32.704542] Method : GET] 
+2023-01-26 15:46:32.717346] POST : <QueryDict: {}>] 
+2023-01-26 15:46:32.727346] GET : <QueryDict: {}>] 
+2023-01-26 15:46:32.736370] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:46:44.482330] ======================== REQUEST ==============================] 
+2023-01-26 15:46:44.482330] Method : POST] 
+2023-01-26 15:46:44.497947] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['1siHyR5RnEIQW0NejnqAcQBFSE4yt93CEdWNn9yZtVAXgCADWHJ1ajxzLcD2MYRt']}>] 
+2023-01-26 15:46:44.507471] GET : <QueryDict: {}>] 
+2023-01-26 15:46:44.513980] ===================== END REQUEST =============================] 
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+2023-01-26 15:49:46.726906] ======================== REQUEST ==============================] 
+2023-01-26 15:49:46.726906] Method : GET] 
+2023-01-26 15:49:46.742399] POST : <QueryDict: {}>] 
+2023-01-26 15:49:46.758031] GET : <QueryDict: {}>] 
+2023-01-26 15:49:46.758031] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:49:57.854319] ======================== REQUEST ==============================] 
+2023-01-26 15:49:57.854319] Method : POST] 
+2023-01-26 15:49:57.874557] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['9TUrF33Sar6OaH80MVtt8LoKCrwcJ1jYMEyxulw0gIYVujVppfMU6ekEvZ5G2Q7P']}>] 
+2023-01-26 15:49:57.883563] GET : <QueryDict: {}>] 
+2023-01-26 15:49:57.893013] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 29, in show_login_page
+    return render(request, context=login_form)
+TypeError: render() missing 1 required positional argument: 'template_name'
+"POST /login/ HTTP/1.1" 500 80917
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:51:30.082014] ======================== REQUEST ==============================] 
+2023-01-26 15:51:30.082014] Method : GET] 
+2023-01-26 15:51:30.097731] POST : <QueryDict: {}>] 
+2023-01-26 15:51:30.113277] GET : <QueryDict: {}>] 
+2023-01-26 15:51:30.113277] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:51:39.850772] ======================== REQUEST ==============================] 
+2023-01-26 15:51:39.860826] Method : POST] 
+2023-01-26 15:51:39.869068] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['gIIZVPURohcv3s0D24GRtx1tvd1WjoxkTtm5K7nZuy4Cn4N2FoZir0XnoLAqCdlb']}>] 
+2023-01-26 15:51:39.869068] GET : <QueryDict: {}>] 
+2023-01-26 15:51:39.884907] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 29, in show_login_page
+    return render(request, LOGIN_PAGE, context=login_form)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 58, in render
+    context = make_context(
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\context.py", line 278, in make_context
+    raise TypeError(
+TypeError: context must be a dict rather than AuthenticationForm.
+"POST /login/ HTTP/1.1" 500 97792
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:53:58.881594] ======================== REQUEST ==============================] 
+2023-01-26 15:53:58.881594] Method : POST] 
+2023-01-26 15:53:58.897284] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['gIIZVPURohcv3s0D24GRtx1tvd1WjoxkTtm5K7nZuy4Cn4N2FoZir0XnoLAqCdlb']}>] 
+2023-01-26 15:53:58.912835] GET : <QueryDict: {}>] 
+2023-01-26 15:53:58.912835] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 15:54:09.126226] ======================== REQUEST ==============================] 
+2023-01-26 15:54:09.137228] Method : POST] 
+2023-01-26 15:54:09.147133] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['e5rxGVpMkAo2Sc9wIqt5Uzk14mm3QqeaRQ5DvdSUqRg9cOWVlKMwS2gVXUVx9f21']}>] 
+2023-01-26 15:54:09.159136] GET : <QueryDict: {}>] 
+2023-01-26 15:54:09.169162] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 1916
+2023-01-26 15:54:11.522827] ======================== REQUEST ==============================] 
+2023-01-26 15:54:11.535858] Method : POST] 
+2023-01-26 15:54:11.544602] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['B0Onlbs8L0sOTnSlWMIJQzUjFiF30t8eeLstatVgRhkVdZFKz61aO2QdyQexjiW5']}>] 
+2023-01-26 15:54:11.555600] GET : <QueryDict: {}>] 
+2023-01-26 15:54:11.563738] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 1916
+2023-01-26 15:54:12.429105] ======================== REQUEST ==============================] 
+2023-01-26 15:54:12.441102] Method : POST] 
+2023-01-26 15:54:12.452011] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['TdbRWBcGeogPe3MYW5Ez9466OvB8VBJDwYPXLTFOkF8WyFznzpX07x20H3aCeqxu']}>] 
+2023-01-26 15:54:12.462096] GET : <QueryDict: {}>] 
+2023-01-26 15:54:12.474015] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 1916
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:56:00.765969] ======================== REQUEST ==============================] 
+2023-01-26 15:56:00.775968] Method : POST] 
+2023-01-26 15:56:00.786969] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['TdbRWBcGeogPe3MYW5Ez9466OvB8VBJDwYPXLTFOkF8WyFznzpX07x20H3aCeqxu']}>] 
+2023-01-26 15:56:00.798969] GET : <QueryDict: {}>] 
+2023-01-26 15:56:00.807968] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 29, in show_login_page
+    return render(request, LOGIN_PAGE, context={"login_error": login_form.get_user().errors})
+AttributeError: 'NoneType' object has no attribute 'errors'
+"POST /login/ HTTP/1.1" 500 81145
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:56:15.900740] ======================== REQUEST ==============================] 
+2023-01-26 15:56:15.911733] Method : POST] 
+2023-01-26 15:56:15.921566] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['TdbRWBcGeogPe3MYW5Ez9466OvB8VBJDwYPXLTFOkF8WyFznzpX07x20H3aCeqxu']}>] 
+2023-01-26 15:56:15.932408] GET : <QueryDict: {}>] 
+2023-01-26 15:56:15.940449] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:56:25.293767] ======================== REQUEST ==============================] 
+2023-01-26 15:56:25.304266] Method : POST] 
+2023-01-26 15:56:25.315512] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['eRvi4od5Z1Bhq3C3xDTXHMoj9EXlqqUIRC9oTGGd5itoKFpsaXcoFfkd2cwPJfIz']}>] 
+2023-01-26 15:56:25.324819] GET : <QueryDict: {}>] 
+2023-01-26 15:56:25.334424] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+2023-01-26 15:56:26.625179] ======================== REQUEST ==============================] 
+2023-01-26 15:56:26.637261] Method : POST] 
+2023-01-26 15:56:26.647984] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['9luCz4NpzAUgNBlKFYFSsAG0xL12AESGM68IomgxFRMn7d89iiYjq3CUqjAwTtGx']}>] 
+2023-01-26 15:56:26.657101] GET : <QueryDict: {}>] 
+2023-01-26 15:56:26.667175] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+2023-01-26 15:56:33.977057] ======================== REQUEST ==============================] 
+2023-01-26 15:56:33.989052] Method : POST] 
+2023-01-26 15:56:33.999795] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['vXfD3NuyI9lYlMkbIhk7a3SN3uAYNFsC8ITJS5XGOqd5Fo7AlBDy8wOHW29s6ugt']}>] 
+2023-01-26 15:56:34.008247] GET : <QueryDict: {}>] 
+2023-01-26 15:56:34.017983] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 15:56:56.077963] ======================== REQUEST ==============================] 
+2023-01-26 15:56:56.087964] Method : POST] 
+2023-01-26 15:56:56.098778] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['vXfD3NuyI9lYlMkbIhk7a3SN3uAYNFsC8ITJS5XGOqd5Fo7AlBDy8wOHW29s6ugt']}>] 
+2023-01-26 15:56:56.107819] GET : <QueryDict: {}>] 
+2023-01-26 15:56:56.119802] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 15:56:56.652247] ======================== REQUEST ==============================] 
+2023-01-26 15:56:56.664244] Method : POST] 
+2023-01-26 15:56:56.672249] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['49BEtJDsoIHx0YozSBVKwopklKLbYf9nHUfKi16AuZzEkAbYvVebuRleeikFh4Xe']}>] 
+2023-01-26 15:56:56.683876] GET : <QueryDict: {}>] 
+2023-01-26 15:56:56.691883] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+2023-01-26 15:57:04.352168] ======================== REQUEST ==============================] 
+2023-01-26 15:57:04.364168] Method : POST] 
+2023-01-26 15:57:04.374136] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['oX4GdovBe3YWZX0pKR1b9UDfz2o2LLZw1IIM2GYJkkQ3jzNOnbkC7nz9sAXw4ANn']}>] 
+2023-01-26 15:57:04.384855] GET : <QueryDict: {}>] 
+2023-01-26 15:57:04.393789] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+2023-01-26 15:57:23.695633] ======================== REQUEST ==============================] 
+2023-01-26 15:57:23.705647] Method : POST] 
+2023-01-26 15:57:23.715612] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Zd31ji9MHfA6BDlGwSbKPGgF31gK13EdCYH78ACUNwsdVf859cubN9czWzPekSs4']}>] 
+2023-01-26 15:57:23.724373] GET : <QueryDict: {}>] 
+2023-01-26 15:57:23.734156] ===================== END REQUEST =============================] 
+2023-01-26 16:00:04.631936] ======================== REQUEST ==============================] 
+2023-01-26 16:00:04.645020] Method : POST] 
+2023-01-26 16:00:04.653933] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Zd31ji9MHfA6BDlGwSbKPGgF31gK13EdCYH78ACUNwsdVf859cubN9czWzPekSs4']}>] 
+2023-01-26 16:00:04.665932] GET : <QueryDict: {}>] 
+2023-01-26 16:00:04.677022] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+- Broken pipe from ('127.0.0.1', 61789)
+2023-01-26 16:00:22.513609] ======================== REQUEST ==============================] 
+2023-01-26 16:00:22.526610] Method : POST] 
+2023-01-26 16:00:22.536609] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['LGwGXRf607opYpRzFSLsP9tBRkQvDTR6oraMM9Ie6ogwi1EYic4TNCpvKSpZWIFX']}>] 
+2023-01-26 16:00:22.547611] GET : <QueryDict: {}>] 
+2023-01-26 16:00:22.558612] ===================== END REQUEST =============================] 
+"POST /login/ HTTP/1.1" 200 2115
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:13:40.173570] ======================== REQUEST ==============================] 
+2023-01-26 16:13:40.185569] Method : POST] 
+2023-01-26 16:13:40.197582] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['LGwGXRf607opYpRzFSLsP9tBRkQvDTR6oraMM9Ie6ogwi1EYic4TNCpvKSpZWIFX']}>] 
+2023-01-26 16:13:40.208573] GET : <QueryDict: {}>] 
+2023-01-26 16:13:40.218569] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    logger.log("User logged in : "+user)
+TypeError: can only concatenate str (not "User") to str
+"POST /login/ HTTP/1.1" 500 65799
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:13:59.922402] ======================== REQUEST ==============================] 
+2023-01-26 16:13:59.932631] Method : POST] 
+2023-01-26 16:13:59.941523] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['LGwGXRf607opYpRzFSLsP9tBRkQvDTR6oraMM9Ie6ogwi1EYic4TNCpvKSpZWIFX']}>] 
+2023-01-26 16:13:59.948905] GET : <QueryDict: {}>] 
+2023-01-26 16:13:59.959903] ===================== END REQUEST =============================] 
+2023-01-26 16:14:00.081874] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 200 1933
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:14:03.127203] ======================== REQUEST ==============================] 
+2023-01-26 16:14:03.139203] Method : POST] 
+2023-01-26 16:14:03.148201] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['RtG1NOSd2EQObhNChbX88FcOiiOlTddyuek7C6ll8VIVvTA1Uvgz688IbQnPc21p']}>] 
+2023-01-26 16:14:03.158204] GET : <QueryDict: {}>] 
+2023-01-26 16:14:03.167300] ===================== END REQUEST =============================] 
+2023-01-26 16:14:03.286200] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 200 1933
+2023-01-26 16:14:04.843222] ======================== REQUEST ==============================] 
+2023-01-26 16:14:04.857223] Method : POST] 
+2023-01-26 16:14:04.866232] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['1mNlgfzspswIB3zwNeNYtzYYGcUlT7TtE7rr5x2AvJoPVFmVqy6pr2USzKtPcWHk']}>] 
+2023-01-26 16:14:04.875519] GET : <QueryDict: {}>] 
+2023-01-26 16:14:04.883617] ===================== END REQUEST =============================] 
+2023-01-26 16:14:05.003719] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 200 1933
+2023-01-26 16:14:56.479599] ======================== REQUEST ==============================] 
+2023-01-26 16:14:56.491681] Method : POST] 
+2023-01-26 16:14:56.500598] POST : <QueryDict: {'username': ['anubhav45sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Pxp883T9Oy9690Q89ASaawjyBT4FiyN9si3eXlmhUP1dtCDxMUbB8ZfsurD9BnB0']}>] 
+2023-01-26 16:14:56.510598] GET : <QueryDict: {}>] 
+2023-01-26 16:14:56.521599] ===================== END REQUEST =============================] 
+2023-01-26 16:14:56.759606] User logged in : None] 
+"POST /login/ HTTP/1.1" 200 1923
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:16:29.543145] ======================== REQUEST ==============================] 
+2023-01-26 16:16:29.553155] Method : POST] 
+2023-01-26 16:16:29.563102] POST : <QueryDict: {'username': ['anubhav45sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['Pxp883T9Oy9690Q89ASaawjyBT4FiyN9si3eXlmhUP1dtCDxMUbB8ZfsurD9BnB0']}>] 
+2023-01-26 16:16:29.572932] GET : <QueryDict: {}>] 
+2023-01-26 16:16:29.580985] ===================== END REQUEST =============================] 
+2023-01-26 16:16:29.700376] User logged in : None] 
+"POST /login/ HTTP/1.1" 200 1934
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:16:32.484155] ======================== REQUEST ==============================] 
+2023-01-26 16:16:32.493065] Method : POST] 
+2023-01-26 16:16:32.503647] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['hAkSop8vfWQcaQDi1a4wdjNpvGgcUoYsUlYYdHBDldIjusqHEunXbMJjoePGddMj']}>] 
+2023-01-26 16:16:32.512670] GET : <QueryDict: {}>] 
+2023-01-26 16:16:32.521669] ===================== END REQUEST =============================] 
+2023-01-26 16:16:32.642698] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:16:32.665833] ======================== REQUEST ==============================] 
+2023-01-26 16:16:32.675833] Method : GET] 
+2023-01-26 16:16:32.685835] POST : <QueryDict: {}>] 
+2023-01-26 16:16:32.694657] GET : <QueryDict: {}>] 
+2023-01-26 16:16:32.703658] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:16:32.726361] ======================== REQUEST ==============================] 
+2023-01-26 16:16:32.736871] Method : GET] 
+2023-01-26 16:16:32.744920] POST : <QueryDict: {}>] 
+2023-01-26 16:16:32.754744] GET : <QueryDict: {}>] 
+2023-01-26 16:16:32.762743] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+2023-01-26 16:17:00.326121] ======================== REQUEST ==============================] 
+2023-01-26 16:17:00.338222] Method : POST] 
+2023-01-26 16:17:00.347123] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['OQyeZOTSu5ucbwqiYyLwAndzmH3DRLcArBckO6m0Ammjv8dHBS4XyQ9tffC7aA0r']}>] 
+2023-01-26 16:17:00.357203] GET : <QueryDict: {}>] 
+2023-01-26 16:17:00.368123] ===================== END REQUEST =============================] 
+2023-01-26 16:17:00.490121] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:17:00.504200] ======================== REQUEST ==============================] 
+2023-01-26 16:17:00.513282] Method : GET] 
+2023-01-26 16:17:00.525124] POST : <QueryDict: {}>] 
+2023-01-26 16:17:00.534158] GET : <QueryDict: {}>] 
+2023-01-26 16:17:00.544122] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:17:00.560231] ======================== REQUEST ==============================] 
+2023-01-26 16:17:00.570126] Method : GET] 
+2023-01-26 16:17:00.579123] POST : <QueryDict: {}>] 
+2023-01-26 16:17:00.588122] GET : <QueryDict: {}>] 
+2023-01-26 16:17:00.597214] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+2023-01-26 16:17:44.966570] ======================== REQUEST ==============================] 
+2023-01-26 16:17:44.978697] Method : POST] 
+2023-01-26 16:17:44.988695] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@12997'], 'csrfmiddlewaretoken': ['IjNCMMoElXSZ6jJcV1ZWZ7tshPKE3hS8l4rIB4RMreK6qVwBylinXApmanj8m6GZ']}>] 
+2023-01-26 16:17:44.997022] GET : <QueryDict: {}>] 
+2023-01-26 16:17:45.008251] ===================== END REQUEST =============================] 
+2023-01-26 16:17:45.126463] User logged in : None] 
+"POST /login/ HTTP/1.1" 200 1934
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:18:44.855934] ======================== REQUEST ==============================] 
+2023-01-26 16:18:44.868931] Method : POST] 
+2023-01-26 16:18:44.881929] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['n0G7Lp01yVuY5MKaSUQsXltu17zv8BV00LkdAHt9Ecm5poxzve9TVOpoUF8ZrqJR']}>] 
+2023-01-26 16:18:44.893020] GET : <QueryDict: {}>] 
+2023-01-26 16:18:44.901931] ===================== END REQUEST =============================] 
+2023-01-26 16:18:45.117015] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:18:45.131930] ======================== REQUEST ==============================] 
+2023-01-26 16:18:45.143930] Method : GET] 
+2023-01-26 16:18:45.155500] POST : <QueryDict: {}>] 
+2023-01-26 16:18:45.164539] GET : <QueryDict: {}>] 
+2023-01-26 16:18:45.174341] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:18:45.190442] ======================== REQUEST ==============================] 
+2023-01-26 16:18:45.201422] Method : GET] 
+2023-01-26 16:18:45.213420] POST : <QueryDict: {}>] 
+2023-01-26 16:18:45.225056] GET : <QueryDict: {}>] 
+2023-01-26 16:18:45.235015] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:19:07.290646] ======================== REQUEST ==============================] 
+2023-01-26 16:19:07.304645] Method : GET] 
+2023-01-26 16:19:07.318673] POST : <QueryDict: {}>] 
+2023-01-26 16:19:07.329653] GET : <QueryDict: {}>] 
+2023-01-26 16:19:07.340645] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+2023-01-26 16:19:07.354646] ======================== REQUEST ==============================] 
+2023-01-26 16:19:07.364650] Method : GET] 
+2023-01-26 16:19:07.375645] POST : <QueryDict: {}>] 
+2023-01-26 16:19:07.386659] GET : <QueryDict: {}>] 
+2023-01-26 16:19:07.398656] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:19:11.069561] ======================== REQUEST ==============================] 
+2023-01-26 16:19:11.081563] Method : POST] 
+2023-01-26 16:19:11.093602] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['JGmGvTldCBnhTQarSReIO2qiw1eIHMN0mr0MkbOlISfodsXQvbx9MvmcpzNc0BBR']}>] 
+2023-01-26 16:19:11.106565] GET : <QueryDict: {}>] 
+2023-01-26 16:19:11.116560] ===================== END REQUEST =============================] 
+2023-01-26 16:19:11.357372] User logged in : anubhav.sharma] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:19:11.372050] ======================== REQUEST ==============================] 
+2023-01-26 16:19:11.382950] Method : GET] 
+2023-01-26 16:19:11.393509] POST : <QueryDict: {}>] 
+2023-01-26 16:19:11.404393] GET : <QueryDict: {}>] 
+2023-01-26 16:19:11.414310] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:19:11.431785] ======================== REQUEST ==============================] 
+2023-01-26 16:19:11.443090] Method : GET] 
+2023-01-26 16:19:11.455503] POST : <QueryDict: {}>] 
+2023-01-26 16:19:11.464591] GET : <QueryDict: {}>] 
+2023-01-26 16:19:11.473092] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:19:46.664428] ======================== REQUEST ==============================] 
+2023-01-26 16:19:46.672408] Method : GET] 
+2023-01-26 16:19:46.682524] POST : <QueryDict: {}>] 
+2023-01-26 16:19:46.691531] GET : <QueryDict: {}>] 
+2023-01-26 16:19:46.700539] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:19:49.155573] ======================== REQUEST ==============================] 
+2023-01-26 16:19:49.168660] Method : POST] 
+2023-01-26 16:19:49.177606] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['EYClcTOechebrsNrzKmSCGuzlIG1SdmqhJgr1bhmiy6iL4AQc4FjA9qtegfvb2ah']}>] 
+2023-01-26 16:19:49.187622] GET : <QueryDict: {}>] 
+2023-01-26 16:19:49.196571] ===================== END REQUEST =============================] 
+2023-01-26 16:19:49.321656] User logged in : anubhav.sharma] 
+2023-01-26 16:19:49.331611] False] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:19:49.344570] ======================== REQUEST ==============================] 
+2023-01-26 16:19:49.356571] Method : GET] 
+2023-01-26 16:19:49.367570] POST : <QueryDict: {}>] 
+2023-01-26 16:19:49.375171] GET : <QueryDict: {}>] 
+2023-01-26 16:19:49.385173] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:19:49.401297] ======================== REQUEST ==============================] 
+2023-01-26 16:19:49.409468] Method : GET] 
+2023-01-26 16:19:49.419482] POST : <QueryDict: {}>] 
+2023-01-26 16:19:49.431043] GET : <QueryDict: {}>] 
+2023-01-26 16:19:49.441133] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:28:31.453928] ======================== REQUEST ==============================] 
+2023-01-26 16:28:31.466389] Method : GET] 
+2023-01-26 16:28:31.478416] POST : <QueryDict: {}>] 
+2023-01-26 16:28:31.489878] GET : <QueryDict: {}>] 
+2023-01-26 16:28:31.499887] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:28:33.126611] ======================== REQUEST ==============================] 
+2023-01-26 16:28:33.140610] Method : POST] 
+2023-01-26 16:28:33.151610] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['w5Mf7q7EoN5dMgozwHSXxCvVjuAlphp49QqlWIAMu4Xk6SbY91bov5rPc29PI6dV']}>] 
+2023-01-26 16:28:33.160722] GET : <QueryDict: {}>] 
+2023-01-26 16:28:33.169612] ===================== END REQUEST =============================] 
+2023-01-26 16:28:33.288348] User logged in : anubhav.sharma : False] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:28:33.303846] ======================== REQUEST ==============================] 
+2023-01-26 16:28:33.315849] Method : GET] 
+2023-01-26 16:28:33.324606] POST : <QueryDict: {}>] 
+2023-01-26 16:28:33.335889] GET : <QueryDict: {}>] 
+2023-01-26 16:28:33.344523] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:28:33.361564] ======================== REQUEST ==============================] 
+2023-01-26 16:28:33.372558] Method : GET] 
+2023-01-26 16:28:33.383554] POST : <QueryDict: {}>] 
+2023-01-26 16:28:33.394407] GET : <QueryDict: {}>] 
+2023-01-26 16:28:33.405415] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:28:41.378504] ======================== REQUEST ==============================] 
+2023-01-26 16:28:41.391523] Method : POST] 
+2023-01-26 16:28:41.405592] POST : <QueryDict: {'username': ['anubhav.sh42arma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['hynqLnp0EBBaw0ObaXgOC1482kpsydMBUj1wAFS8KSthQCBANhzfAu02VSYWR2As']}>] 
+2023-01-26 16:28:41.416199] GET : <QueryDict: {}>] 
+2023-01-26 16:28:41.426171] ===================== END REQUEST =============================] 
+2023-01-26 16:28:41.659443] User logged in : None : False] 
+"POST /login/ HTTP/1.1" 200 1934
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:33:20.832810] ======================== REQUEST ==============================] 
+2023-01-26 16:33:20.845803] Method : POST] 
+2023-01-26 16:33:20.857811] POST : <QueryDict: {'username': ['anubhav.sh42arma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['hynqLnp0EBBaw0ObaXgOC1482kpsydMBUj1wAFS8KSthQCBANhzfAu02VSYWR2As']}>] 
+2023-01-26 16:33:20.869801] GET : <QueryDict: {}>] 
+2023-01-26 16:33:20.880799] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 21, in show_login_page
+    user = AuthenticationForm(request.POST).clean()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\auth\forms.py", line 213, in clean
+    username = self.cleaned_data.get("username")
+AttributeError: 'AuthenticationForm' object has no attribute 'cleaned_data'
+"POST /login/ HTTP/1.1" 500 69308
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:33:57.198617] ======================== REQUEST ==============================] 
+2023-01-26 16:33:57.211604] Method : POST] 
+2023-01-26 16:33:57.222605] POST : <QueryDict: {'username': ['anubhav.sh42arma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['hynqLnp0EBBaw0ObaXgOC1482kpsydMBUj1wAFS8KSthQCBANhzfAu02VSYWR2As']}>] 
+2023-01-26 16:33:57.233604] GET : <QueryDict: {}>] 
+2023-01-26 16:33:57.243683] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 21, in show_login_page
+    user = AuthenticationForm(data=request.POST).clean()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\auth\forms.py", line 213, in clean
+    username = self.cleaned_data.get("username")
+AttributeError: 'AuthenticationForm' object has no attribute 'cleaned_data'
+"POST /login/ HTTP/1.1" 500 69317
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+2023-01-26 16:34:01.698340] ======================== REQUEST ==============================] 
+2023-01-26 16:34:01.711339] Method : GET] 
+2023-01-26 16:34:01.724345] POST : <QueryDict: {}>] 
+2023-01-26 16:34:01.735338] GET : <QueryDict: {}>] 
+2023-01-26 16:34:01.745366] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:34:03.173557] ======================== REQUEST ==============================] 
+2023-01-26 16:34:03.186558] Method : POST] 
+2023-01-26 16:34:03.196311] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['AHYxtBzTcZroxwRBbALLh2WV6IOWcxQgdsCDiT21igjvR8E0OU4cfvSPZgnqvmE7']}>] 
+2023-01-26 16:34:03.206398] GET : <QueryDict: {}>] 
+2023-01-26 16:34:03.217311] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 21, in show_login_page
+    user = AuthenticationForm(data=request.POST).clean()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\contrib\auth\forms.py", line 213, in clean
+    username = self.cleaned_data.get("username")
+AttributeError: 'AuthenticationForm' object has no attribute 'cleaned_data'
+"POST /login/ HTTP/1.1" 500 69187
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:35:49.894018] ======================== REQUEST ==============================] 
+2023-01-26 16:35:49.907016] Method : GET] 
+2023-01-26 16:35:49.919020] POST : <QueryDict: {}>] 
+2023-01-26 16:35:49.929106] GET : <QueryDict: {}>] 
+2023-01-26 16:35:49.938018] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:35:51.431749] ======================== REQUEST ==============================] 
+2023-01-26 16:35:51.441806] Method : POST] 
+2023-01-26 16:35:51.454179] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['EvggruX5LJ4Z8OPVS7NFDIEhyUlTH1NihgUmgMqdR0W6sqCkvr66BbAbrsUn0QB9']}>] 
+2023-01-26 16:35:51.464555] GET : <QueryDict: {}>] 
+2023-01-26 16:35:51.474126] ===================== END REQUEST =============================] 
+2023-01-26 16:35:51.699229] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} : False] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:35:51.713273] ======================== REQUEST ==============================] 
+2023-01-26 16:35:51.724149] Method : GET] 
+2023-01-26 16:35:51.736231] POST : <QueryDict: {}>] 
+2023-01-26 16:35:51.746149] GET : <QueryDict: {}>] 
+2023-01-26 16:35:51.756139] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:35:51.773138] ======================== REQUEST ==============================] 
+2023-01-26 16:35:51.783140] Method : GET] 
+2023-01-26 16:35:51.795140] POST : <QueryDict: {}>] 
+2023-01-26 16:35:51.807226] GET : <QueryDict: {}>] 
+2023-01-26 16:35:51.818169] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:36:44.693303] ======================== REQUEST ==============================] 
+2023-01-26 16:36:44.705292] Method : GET] 
+2023-01-26 16:36:44.716390] POST : <QueryDict: {}>] 
+2023-01-26 16:36:44.726292] GET : <QueryDict: {}>] 
+2023-01-26 16:36:44.736292] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:36:46.864911] ======================== REQUEST ==============================] 
+2023-01-26 16:36:46.877967] Method : POST] 
+2023-01-26 16:36:46.887650] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['XCtZTAgLEbbB1fz6FMMhgCbee0zyFnxUAn75ISJTKs3IlRmvi65Ie5787y82YclL']}>] 
+2023-01-26 16:36:46.897650] GET : <QueryDict: {}>] 
+2023-01-26 16:36:46.907069] ===================== END REQUEST =============================] 
+2023-01-26 16:36:47.180066] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} : True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:36:47.193068] ======================== REQUEST ==============================] 
+2023-01-26 16:36:47.205068] Method : GET] 
+2023-01-26 16:36:47.216067] POST : <QueryDict: {}>] 
+2023-01-26 16:36:47.225068] GET : <QueryDict: {}>] 
+2023-01-26 16:36:47.234068] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:36:47.251068] ======================== REQUEST ==============================] 
+2023-01-26 16:36:47.262070] Method : GET] 
+2023-01-26 16:36:47.273068] POST : <QueryDict: {}>] 
+2023-01-26 16:36:47.286070] GET : <QueryDict: {}>] 
+2023-01-26 16:36:47.299067] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:38:08.164088] ======================== REQUEST ==============================] 
+2023-01-26 16:38:08.179090] Method : GET] 
+2023-01-26 16:38:08.189087] POST : <QueryDict: {}>] 
+2023-01-26 16:38:08.201089] GET : <QueryDict: {}>] 
+2023-01-26 16:38:08.211086] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:38:09.874868] ======================== REQUEST ==============================] 
+2023-01-26 16:38:09.886584] Method : POST] 
+2023-01-26 16:38:09.898206] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['M3BqYoN4cDwWWyULU39On5zIuVbqi8hbpOfwNGgciUo3gaHaxnsflyvCntKUBX52']}>] 
+2023-01-26 16:38:09.907204] GET : <QueryDict: {}>] 
+2023-01-26 16:38:09.917204] ===================== END REQUEST =============================] 
+2023-01-26 16:38:10.152204] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} : True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:38:10.167237] ======================== REQUEST ==============================] 
+2023-01-26 16:38:10.179210] Method : GET] 
+2023-01-26 16:38:10.190205] POST : <QueryDict: {}>] 
+2023-01-26 16:38:10.200206] GET : <QueryDict: {}>] 
+2023-01-26 16:38:10.212221] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:38:10.229208] ======================== REQUEST ==============================] 
+2023-01-26 16:38:10.240211] Method : GET] 
+2023-01-26 16:38:10.252205] POST : <QueryDict: {}>] 
+2023-01-26 16:38:10.265220] GET : <QueryDict: {}>] 
+2023-01-26 16:38:10.277206] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:38:48.798924] ======================== REQUEST ==============================] 
+2023-01-26 16:38:48.808977] Method : GET] 
+2023-01-26 16:38:48.819499] POST : <QueryDict: {}>] 
+2023-01-26 16:38:48.829324] GET : <QueryDict: {}>] 
+2023-01-26 16:38:48.838745] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:38:51.098901] ======================== REQUEST ==============================] 
+2023-01-26 16:38:51.110903] Method : POST] 
+2023-01-26 16:38:51.123904] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['IsxnO0VCdq1wTsmoQjxV46ebWmfvvRgEldbtDioKjHTDd49NtDQm2za5PUOZOG4v']}>] 
+2023-01-26 16:38:51.135943] GET : <QueryDict: {}>] 
+2023-01-26 16:38:51.145941] ===================== END REQUEST =============================] 
+2023-01-26 16:38:51.380408] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} : True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:38:51.394414] ======================== REQUEST ==============================] 
+2023-01-26 16:38:51.404495] Method : GET] 
+2023-01-26 16:38:51.415415] POST : <QueryDict: {}>] 
+2023-01-26 16:38:51.427417] GET : <QueryDict: {}>] 
+2023-01-26 16:38:51.436512] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:38:51.453738] ======================== REQUEST ==============================] 
+2023-01-26 16:38:51.465765] Method : GET] 
+2023-01-26 16:38:51.479646] POST : <QueryDict: {}>] 
+2023-01-26 16:38:51.492653] GET : <QueryDict: {}>] 
+2023-01-26 16:38:51.502763] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:39:18.384328] ======================== REQUEST ==============================] 
+2023-01-26 16:39:18.395356] Method : GET] 
+2023-01-26 16:39:18.404348] POST : <QueryDict: {}>] 
+2023-01-26 16:39:18.414329] GET : <QueryDict: {}>] 
+2023-01-26 16:39:18.423332] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:39:20.134798] ======================== REQUEST ==============================] 
+2023-01-26 16:39:20.147797] Method : POST] 
+2023-01-26 16:39:20.160797] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['z76YaAjdJXiZVDWBO6ysmGeJBc4GqqHrcSK4ZSMlPea6ffJ0rqRTk9aDuKDaJfvi']}>] 
+2023-01-26 16:39:20.172797] GET : <QueryDict: {}>] 
+2023-01-26 16:39:20.182796] ===================== END REQUEST =============================] 
+2023-01-26 16:39:20.416801] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True Authenticated: False] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:39:20.430904] ======================== REQUEST ==============================] 
+2023-01-26 16:39:20.441800] Method : GET] 
+2023-01-26 16:39:20.457809] POST : <QueryDict: {}>] 
+2023-01-26 16:39:20.468797] GET : <QueryDict: {}>] 
+2023-01-26 16:39:20.479880] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:39:20.504828] ======================== REQUEST ==============================] 
+2023-01-26 16:39:20.515846] Method : GET] 
+2023-01-26 16:39:20.527801] POST : <QueryDict: {}>] 
+2023-01-26 16:39:20.541798] GET : <QueryDict: {}>] 
+2023-01-26 16:39:20.551799] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:40:21.965808] ======================== REQUEST ==============================] 
+2023-01-26 16:40:21.976895] Method : GET] 
+2023-01-26 16:40:21.986856] POST : <QueryDict: {}>] 
+2023-01-26 16:40:21.998809] GET : <QueryDict: {}>] 
+2023-01-26 16:40:22.007813] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:40:23.347899] ======================== REQUEST ==============================] 
+2023-01-26 16:40:23.358415] Method : POST] 
+2023-01-26 16:40:23.367512] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['vIynIKGatllag63No2vKPfLUa5JM96kl8tctx29izCdhAIQc1mObNIHO3DigsV8c']}>] 
+2023-01-26 16:40:23.377274] GET : <QueryDict: {}>] 
+2023-01-26 16:40:23.387321] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 26, in show_login_page
+    logger.log("User logged in : "+str(user) + " Valid: "+str(_is_valid) + " Authenticated: "+str(_is_authenticated))
+NameError: name '_is_authenticated' is not defined
+"POST /login/ HTTP/1.1" 500 65958
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:40:44.407378] ======================== REQUEST ==============================] 
+2023-01-26 16:40:44.417642] Method : POST] 
+2023-01-26 16:40:44.429150] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['vIynIKGatllag63No2vKPfLUa5JM96kl8tctx29izCdhAIQc1mObNIHO3DigsV8c']}>] 
+2023-01-26 16:40:44.437928] GET : <QueryDict: {}>] 
+2023-01-26 16:40:44.447942] ===================== END REQUEST =============================] 
+2023-01-26 16:40:44.698361] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True Authenticated: True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:40:44.712363] ======================== REQUEST ==============================] 
+2023-01-26 16:40:44.724361] Method : GET] 
+2023-01-26 16:40:44.735360] POST : <QueryDict: {}>] 
+2023-01-26 16:40:44.746360] GET : <QueryDict: {}>] 
+2023-01-26 16:40:44.756379] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:40:44.772387] ======================== REQUEST ==============================] 
+2023-01-26 16:40:44.783361] Method : GET] 
+2023-01-26 16:40:44.795362] POST : <QueryDict: {}>] 
+2023-01-26 16:40:44.805364] GET : <QueryDict: {}>] 
+2023-01-26 16:40:44.815358] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:40:47.318597] ======================== REQUEST ==============================] 
+2023-01-26 16:40:47.330609] Method : POST] 
+2023-01-26 16:40:47.342842] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['KXXJse7RyIwBtAOKV0nk7eiJp96MOSSPnIBPhwAZEZoINcB9ykGL5HeDiHFg7HGG']}>] 
+2023-01-26 16:40:47.351893] GET : <QueryDict: {}>] 
+2023-01-26 16:40:47.362504] ===================== END REQUEST =============================] 
+2023-01-26 16:40:47.599312] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True Authenticated: True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:40:47.615239] ======================== REQUEST ==============================] 
+2023-01-26 16:40:47.626231] Method : GET] 
+2023-01-26 16:40:47.639244] POST : <QueryDict: {}>] 
+2023-01-26 16:40:47.651274] GET : <QueryDict: {}>] 
+2023-01-26 16:40:47.663231] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:40:47.682308] ======================== REQUEST ==============================] 
+2023-01-26 16:40:47.693240] Method : GET] 
+2023-01-26 16:40:47.704229] POST : <QueryDict: {}>] 
+2023-01-26 16:40:47.718318] GET : <QueryDict: {}>] 
+2023-01-26 16:40:47.733240] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:44:38.710671] ======================== REQUEST ==============================] 
+2023-01-26 16:44:38.725764] Method : GET] 
+2023-01-26 16:44:38.737673] POST : <QueryDict: {}>] 
+2023-01-26 16:44:38.748669] GET : <QueryDict: {}>] 
+2023-01-26 16:44:38.759671] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:44:40.268033] ======================== REQUEST ==============================] 
+2023-01-26 16:44:40.280071] Method : POST] 
+2023-01-26 16:44:40.293032] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['29id38LLlVglWyvKGeFIRsQU63yY6ybzFUWjSqeTrc8sgai9jyY9PVMOZB7spnZq']}>] 
+2023-01-26 16:44:40.304032] GET : <QueryDict: {}>] 
+2023-01-26 16:44:40.313031] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    logger.log("User logged in : "+str(user) + " Valid: "+str(_is_valid) + " Authenticated: "+str(login_form.request.is_authenticated))
+AttributeError: 'WSGIRequest' object has no attribute 'is_authenticated'
+"POST /login/ HTTP/1.1" 500 66129
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:45:53.147020] ======================== REQUEST ==============================] 
+2023-01-26 16:45:53.160019] Method : POST] 
+2023-01-26 16:45:53.173019] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['29id38LLlVglWyvKGeFIRsQU63yY6ybzFUWjSqeTrc8sgai9jyY9PVMOZB7spnZq']}>] 
+2023-01-26 16:45:53.185020] GET : <QueryDict: {}>] 
+2023-01-26 16:45:53.196018] ===================== END REQUEST =============================] 
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py", line 24, in show_login_page
+    request.user.is_authenticated = True
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\utils\functional.py", line 311, in __setattr__
+    setattr(self._wrapped, name, value)
+AttributeError: can't set attribute 'is_authenticated'
+"POST /login/ HTTP/1.1" 500 70093
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:50:23.339812] ======================== REQUEST ==============================] 
+2023-01-26 16:50:23.351810] Method : POST] 
+2023-01-26 16:50:23.363810] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['29id38LLlVglWyvKGeFIRsQU63yY6ybzFUWjSqeTrc8sgai9jyY9PVMOZB7spnZq']}>] 
+2023-01-26 16:50:23.374837] GET : <QueryDict: {}>] 
+2023-01-26 16:50:23.384826] ===================== END REQUEST =============================] 
+2023-01-26 16:50:23.613908] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:50:23.627895] ======================== REQUEST ==============================] 
+2023-01-26 16:50:23.638810] Method : GET] 
+2023-01-26 16:50:23.651386] POST : <QueryDict: {}>] 
+2023-01-26 16:50:23.662117] GET : <QueryDict: {}>] 
+2023-01-26 16:50:23.670114] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:50:23.686418] ======================== REQUEST ==============================] 
+2023-01-26 16:50:23.697428] Method : GET] 
+2023-01-26 16:50:23.707425] POST : <QueryDict: {}>] 
+2023-01-26 16:50:23.718430] GET : <QueryDict: {}>] 
+2023-01-26 16:50:23.729203] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:50:25.515735] ======================== REQUEST ==============================] 
+2023-01-26 16:50:25.527738] Method : POST] 
+2023-01-26 16:50:25.538548] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['ER9o13VtThfmEmHsPFYQNUt71nvwGMzohCNuQloBZy7tYYuRsZhhLnp1UV40ZBnf']}>] 
+2023-01-26 16:50:25.550562] GET : <QueryDict: {}>] 
+2023-01-26 16:50:25.561632] ===================== END REQUEST =============================] 
+2023-01-26 16:50:25.786914] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:50:25.800850] ======================== REQUEST ==============================] 
+2023-01-26 16:50:25.811851] Method : GET] 
+2023-01-26 16:50:25.828867] POST : <QueryDict: {}>] 
+2023-01-26 16:50:25.839846] GET : <QueryDict: {}>] 
+2023-01-26 16:50:25.850922] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+2023-01-26 16:50:25.866891] ======================== REQUEST ==============================] 
+2023-01-26 16:50:25.877850] Method : GET] 
+2023-01-26 16:50:25.888846] POST : <QueryDict: {}>] 
+2023-01-26 16:50:25.900847] GET : <QueryDict: {}>] 
+2023-01-26 16:50:25.912848] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:54:32.529271] ======================== REQUEST ==============================] 
+2023-01-26 16:54:32.539723] Method : GET] 
+2023-01-26 16:54:32.548625] POST : <QueryDict: {}>] 
+2023-01-26 16:54:32.558660] GET : <QueryDict: {}>] 
+2023-01-26 16:54:32.567620] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:54:34.233873] ======================== REQUEST ==============================] 
+2023-01-26 16:54:34.246872] Method : POST] 
+2023-01-26 16:54:34.259903] POST : <QueryDict: {'username': ['anubhav.sharma'], 'password': ['Hermione@1997'], 'csrfmiddlewaretoken': ['9kY7tSFaQxo1EmH7OTqVGCVOBblvVd58M5Cdia8iWOg8YYuwrdJmE5RIuJUZe2TZ']}>] 
+2023-01-26 16:54:34.270881] GET : <QueryDict: {}>] 
+2023-01-26 16:54:34.280952] ===================== END REQUEST =============================] 
+2023-01-26 16:54:34.530869] User logged in : {'username': 'anubhav.sharma', 'password': 'Hermione@1997'} Valid: True] 
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 16:54:34.547871] ======================== REQUEST ==============================] 
+2023-01-26 16:54:34.559869] Method : GET] 
+2023-01-26 16:54:34.569869] POST : <QueryDict: {}>] 
+2023-01-26 16:54:34.579871] GET : <QueryDict: {}>] 
+2023-01-26 16:54:34.590870] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2563
+"GET /static/js/all-apps.js HTTP/1.1" 304 0
+"GET /static/css/all-apps.css HTTP/1.1" 304 0
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 304 0
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:54:41.515054] ======================== REQUEST ==============================] 
+2023-01-26 16:54:41.526052] Method : GET] 
+2023-01-26 16:54:41.536699] POST : <QueryDict: {}>] 
+2023-01-26 16:54:41.546868] GET : <QueryDict: {}>] 
+2023-01-26 16:54:41.557501] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:54:48.622592] ======================== REQUEST ==============================] 
+2023-01-26 16:54:48.633623] Method : GET] 
+2023-01-26 16:54:48.644441] POST : <QueryDict: {}>] 
+2023-01-26 16:54:48.654438] GET : <QueryDict: {}>] 
+2023-01-26 16:54:48.663767] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:54:57.357961] ======================== REQUEST ==============================] 
+2023-01-26 16:54:57.369236] Method : GET] 
+2023-01-26 16:54:57.380187] POST : <QueryDict: {}>] 
+2023-01-26 16:54:57.390277] GET : <QueryDict: {}>] 
+2023-01-26 16:54:57.400284] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:55:00.833639] ======================== REQUEST ==============================] 
+2023-01-26 16:55:00.847736] Method : GET] 
+2023-01-26 16:55:00.857640] POST : <QueryDict: {}>] 
+2023-01-26 16:55:00.867488] GET : <QueryDict: {}>] 
+2023-01-26 16:55:00.877417] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:56:06.752270] ======================== REQUEST ==============================] 
+2023-01-26 16:56:06.762672] Method : GET] 
+2023-01-26 16:56:06.771761] POST : <QueryDict: {}>] 
+2023-01-26 16:56:06.781244] GET : <QueryDict: {}>] 
+2023-01-26 16:56:06.790253] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2842
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+Not Found: /logout/
+"GET /logout/ HTTP/1.1" 404 2321
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+2023-01-26 16:56:35.715027] ======================== REQUEST ==============================] 
+2023-01-26 16:56:35.730029] Method : GET] 
+2023-01-26 16:56:35.743041] POST : <QueryDict: {}>] 
+2023-01-26 16:56:35.757027] GET : <QueryDict: {}>] 
+2023-01-26 16:56:35.771028] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 2022
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Not Found: /logout/
+"GET /logout/ HTTP/1.1" 404 2321
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Not Found: /logout/
+"GET /logout/ HTTP/1.1" 404 2321
+2023-01-26 16:56:49.663538] ======================== REQUEST ==============================] 
+2023-01-26 16:56:49.675541] Method : GET] 
+2023-01-26 16:56:49.688537] POST : <QueryDict: {}>] 
+2023-01-26 16:56:49.697537] GET : <QueryDict: {}>] 
+2023-01-26 16:56:49.707537] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 2022
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 16:56:59.932724] ======================== REQUEST ==============================] 
+2023-01-26 16:56:59.946719] Method : GET] 
+2023-01-26 16:56:59.958799] POST : <QueryDict: {}>] 
+2023-01-26 16:56:59.969720] GET : <QueryDict: {}>] 
+2023-01-26 16:56:59.979719] ===================== END REQUEST =============================] 
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 16:57:11.150709] ======================== REQUEST ==============================] 
+2023-01-26 16:57:11.161708] Method : GET] 
+2023-01-26 16:57:11.172711] POST : <QueryDict: {}>] 
+2023-01-26 16:57:11.182709] GET : <QueryDict: {}>] 
+2023-01-26 16:57:11.192710] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 16:59:02.872108] ======================== REQUEST ==============================] 
+2023-01-26 16:59:02.884025] Method : GET] 
+2023-01-26 16:59:02.893799] POST : <QueryDict: {}>] 
+2023-01-26 16:59:02.903370] GET : <QueryDict: {}>] 
+2023-01-26 16:59:02.912380] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2563
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+Not Found: /login/
+"GET /login/ HTTP/1.1" 404 2212
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2227
+Not Found: /account/login/
+"GET /account/login/ HTTP/1.1" 404 2236
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+"GET /login/ HTTP/1.1" 500 60645
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:00:40.665258] ======================== REQUEST ==============================] 
+2023-01-26 17:00:40.675233] Method : GET] 
+2023-01-26 17:00:40.685969] POST : <QueryDict: {}>] 
+2023-01-26 17:00:40.697975] GET : <QueryDict: {}>] 
+2023-01-26 17:00:40.707214] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Not Found: /logout/
+"GET /logout/ HTTP/1.1" 404 2321
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2333
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:01:07.611044] ======================== REQUEST ==============================] 
+2023-01-26 17:01:07.621771] Method : GET] 
+2023-01-26 17:01:07.632786] POST : <QueryDict: {}>] 
+2023-01-26 17:01:07.642846] GET : <QueryDict: {}>] 
+2023-01-26 17:01:07.654412] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:01:13.847989] ======================== REQUEST ==============================] 
+2023-01-26 17:01:13.857991] Method : GET] 
+2023-01-26 17:01:13.868997] POST : <QueryDict: {}>] 
+2023-01-26 17:01:13.879988] GET : <QueryDict: {}>] 
+2023-01-26 17:01:13.889988] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:01:17.518777] ======================== REQUEST ==============================] 
+2023-01-26 17:01:17.531879] Method : GET] 
+2023-01-26 17:01:17.541798] POST : <QueryDict: {}>] 
+2023-01-26 17:01:17.551782] GET : <QueryDict: {}>] 
+2023-01-26 17:01:17.563021] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 17:02:17.915191] ======================== REQUEST ==============================] 
+2023-01-26 17:02:17.930185] Method : GET] 
+2023-01-26 17:02:17.945187] POST : <QueryDict: {}>] 
+2023-01-26 17:02:17.957184] GET : <QueryDict: {}>] 
+2023-01-26 17:02:17.968185] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2563
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\ManageApplications\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 17:02:46.556105] ======================== REQUEST ==============================] 
+2023-01-26 17:02:46.567102] Method : GET] 
+2023-01-26 17:02:46.578104] POST : <QueryDict: {}>] 
+2023-01-26 17:02:46.589104] GET : <QueryDict: {}>] 
+2023-01-26 17:02:46.600102] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:02:48.616298] ======================== REQUEST ==============================] 
+2023-01-26 17:02:48.627975] Method : GET] 
+2023-01-26 17:02:48.636823] POST : <QueryDict: {}>] 
+2023-01-26 17:02:48.647829] GET : <QueryDict: {}>] 
+2023-01-26 17:02:48.658424] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:05:05.232477] ======================== REQUEST ==============================] 
+2023-01-26 17:05:05.244477] Method : GET] 
+2023-01-26 17:05:05.254476] POST : <QueryDict: {}>] 
+2023-01-26 17:05:05.265478] GET : <QueryDict: {}>] 
+2023-01-26 17:05:05.274476] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/js/all-apps.js HTTP/1.1" 200 170
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/all-apps.css HTTP/1.1" 200 683
+"GET /static/images/addApplicationIcon.png HTTP/1.1" 200 881
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'request'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 33: 'request'. Did you forget to register or load this tag?
+"GET /login/ HTTP/1.1" 500 139041
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /login/ HTTP/1.1" 200 1969
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1970
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1938
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"POST /login/ HTTP/1.1" 200 1938
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1938
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1951
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"GET /login/ HTTP/1.1" 200 1950
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+KeyError: 'request.method=="POST"'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 953, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 886, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 889, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '=="POST"' from 'request.method=="POST"'
+"GET /login/ HTTP/1.1" 500 171229
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+KeyError: 'request.method="POST"'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 953, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 886, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 889, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '="POST"' from 'request.method="POST"'
+"GET /login/ HTTP/1.1" 500 171201
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /login/ HTTP/1.1" 200 1925
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:08:04.711399] ======================== REQUEST ==============================] 
+2023-01-26 17:08:04.722470] Method : GET] 
+2023-01-26 17:08:04.732543] POST : <QueryDict: {}>] 
+2023-01-26 17:08:04.743080] GET : <QueryDict: {}>] 
+2023-01-26 17:08:04.753013] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /login/ HTTP/1.1" 200 2045
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1925
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1956
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1925
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:09:07.447526] ======================== REQUEST ==============================] 
+2023-01-26 17:09:07.458463] Method : GET] 
+2023-01-26 17:09:07.469186] POST : <QueryDict: {}>] 
+2023-01-26 17:09:07.479408] GET : <QueryDict: {}>] 
+2023-01-26 17:09:07.490505] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Forbidden (CSRF token from POST incorrect.): /login/
+"POST /login/ HTTP/1.1" 403 2518
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /login/ HTTP/1.1" 200 2045
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 179, in translate_token
+    op = OPERATORS[token]
+KeyError: 'str(request.user)'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 953, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 886, in __init__
+    super().__init__(*args, **kwargs)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 170, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\smartif.py", line 181, in translate_token
+    return self.create_var(token)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 889, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\Anubhav.Sharma\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '(request.user)' from 'str(request.user)'
+"GET /login/ HTTP/1.1" 500 172189
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2440
+"GET /login/ HTTP/1.1" 200 2036
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 2036
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:12:12.558046] ======================== REQUEST ==============================] 
+2023-01-26 17:12:12.568706] Method : GET] 
+2023-01-26 17:12:12.578865] POST : <QueryDict: {}>] 
+2023-01-26 17:12:12.587865] GET : <QueryDict: {}>] 
+2023-01-26 17:12:12.599207] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1946
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 1946
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 200 2018
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:13:43.136557] ======================== REQUEST ==============================] 
+2023-01-26 17:13:43.146561] Method : GET] 
+2023-01-26 17:13:43.156596] POST : <QueryDict: {}>] 
+2023-01-26 17:13:43.167555] GET : <QueryDict: {}>] 
+2023-01-26 17:13:43.178557] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:13:48.164454] ======================== REQUEST ==============================] 
+2023-01-26 17:13:48.173438] Method : GET] 
+2023-01-26 17:13:48.183365] POST : <QueryDict: {}>] 
+2023-01-26 17:13:48.192939] GET : <QueryDict: {}>] 
+2023-01-26 17:13:48.203935] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:13:54.656875] ======================== REQUEST ==============================] 
+2023-01-26 17:13:54.668875] Method : GET] 
+2023-01-26 17:13:54.679891] POST : <QueryDict: {}>] 
+2023-01-26 17:13:54.688368] GET : <QueryDict: {}>] 
+2023-01-26 17:13:54.698367] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:13:56.735042] ======================== REQUEST ==============================] 
+2023-01-26 17:13:56.747042] Method : GET] 
+2023-01-26 17:13:56.757089] POST : <QueryDict: {}>] 
+2023-01-26 17:13:56.768995] GET : <QueryDict: {}>] 
+2023-01-26 17:13:56.779504] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:13:58.689679] ======================== REQUEST ==============================] 
+2023-01-26 17:13:58.701681] Method : GET] 
+2023-01-26 17:13:58.711034] POST : <QueryDict: {}>] 
+2023-01-26 17:13:58.720032] GET : <QueryDict: {}>] 
+2023-01-26 17:13:58.729030] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:14:03.285587] ======================== REQUEST ==============================] 
+2023-01-26 17:14:03.296584] Method : GET] 
+2023-01-26 17:14:03.307582] POST : <QueryDict: {}>] 
+2023-01-26 17:14:03.318582] GET : <QueryDict: {}>] 
+2023-01-26 17:14:03.328584] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:14:05.020256] ======================== REQUEST ==============================] 
+2023-01-26 17:14:05.030220] Method : GET] 
+2023-01-26 17:14:05.039536] POST : <QueryDict: {}>] 
+2023-01-26 17:14:05.048514] GET : <QueryDict: {}>] 
+2023-01-26 17:14:05.058511] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /login/ HTTP/1.1" 200 2036
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:14:11.479114] ======================== REQUEST ==============================] 
+2023-01-26 17:14:11.488117] Method : GET] 
+2023-01-26 17:14:11.498739] POST : <QueryDict: {}>] 
+2023-01-26 17:14:11.507908] GET : <QueryDict: {}>] 
+2023-01-26 17:14:11.517908] ===================== END REQUEST =============================] 
+"GET /register/ HTTP/1.1" 200 2184
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:14:42.205532] ======================== REQUEST ==============================] 
+2023-01-26 17:14:42.216547] Method : POST] 
+2023-01-26 17:14:42.227811] POST : <QueryDict: {'username': ['VipulSharma'], 'email': ['1207VipulSharma@gmail.com'], 'password': ['Hermione@1997'], 'confirmPassword': ['Hermione@1997'], 'csrfmiddlewaretoken': ['QxrOmavIc5YX0tnd0aEGgAgQMPNkQZRNa0wpHcSoWhcgAfaUJJy7xbvGfrolYgdn']}>] 
+2023-01-26 17:14:42.237807] GET : <QueryDict: {}>] 
+2023-01-26 17:14:42.246808] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2322
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:15:31.632157] ======================== REQUEST ==============================] 
+2023-01-26 17:15:31.644150] Method : POST] 
+2023-01-26 17:15:31.654160] POST : <QueryDict: {'username': ['VipulSharma'], 'email': ['1207VipulSharma@gmail.com'], 'password': ['Hermione@1997'], 'confirmPassword': ['Hermione@1997'], 'csrfmiddlewaretoken': ['QxrOmavIc5YX0tnd0aEGgAgQMPNkQZRNa0wpHcSoWhcgAfaUJJy7xbvGfrolYgdn']}>] 
+2023-01-26 17:15:31.665143] GET : <QueryDict: {}>] 
+2023-01-26 17:15:31.675161] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2321
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 17:15:49.120329] ======================== REQUEST ==============================] 
+2023-01-26 17:15:49.131331] Method : POST] 
+2023-01-26 17:15:49.141426] POST : <QueryDict: {'username': ['VipulSharmaDup'], 'email': ['1207VipulSharma@gmail.com'], 'password': ['Hermione@1997'], 'confirmPassword': ['Hermione@1997'], 'csrfmiddlewaretoken': ['IbjuntmkihI9q6P653O744sOfjehpoNS2Eo5IvJ02tWs0SCNOCIylFHEIVPixF9s']}>] 
+2023-01-26 17:15:49.150331] GET : <QueryDict: {}>] 
+2023-01-26 17:15:49.161331] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2330
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:16:21.033935] ======================== REQUEST ==============================] 
+2023-01-26 17:16:21.043935] Method : GET] 
+2023-01-26 17:16:21.053290] POST : <QueryDict: {}>] 
+2023-01-26 17:16:21.064300] GET : <QueryDict: {}>] 
+2023-01-26 17:16:21.074590] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2856
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"POST /login/ HTTP/1.1" 302 0
+2023-01-26 17:16:31.736994] ======================== REQUEST ==============================] 
+2023-01-26 17:16:31.746981] Method : GET] 
+2023-01-26 17:16:31.756979] POST : <QueryDict: {}>] 
+2023-01-26 17:16:31.765979] GET : <QueryDict: {}>] 
+2023-01-26 17:16:31.776978] ===================== END REQUEST =============================] 
+"GET /application/all_apps HTTP/1.1" 200 2853
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:16:35.585663] ======================== REQUEST ==============================] 
+2023-01-26 17:16:35.597663] Method : GET] 
+2023-01-26 17:16:35.606444] POST : <QueryDict: {}>] 
+2023-01-26 17:16:35.615443] GET : <QueryDict: {}>] 
+2023-01-26 17:16:35.626443] ===================== END REQUEST =============================] 
+"GET /application/all_apps? HTTP/1.1" 200 2853
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:17:52.379009] ======================== REQUEST ==============================] 
+2023-01-26 17:17:52.392046] Method : GET] 
+2023-01-26 17:17:52.402009] POST : <QueryDict: {}>] 
+2023-01-26 17:17:52.412009] GET : <QueryDict: {}>] 
+2023-01-26 17:17:52.421009] ===================== END REQUEST =============================] 
+"GET /register/ HTTP/1.1" 200 2184
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:18:17.787923] ======================== REQUEST ==============================] 
+2023-01-26 17:18:17.799922] Method : POST] 
+2023-01-26 17:18:17.811922] POST : <QueryDict: {'username': ['AnubhavSharma'], 'email': ['VipulSharma@maxx.com'], 'password': ['Hermione@1997'], 'confirmPassword': ['Hermione@1997'], 'csrfmiddlewaretoken': ['JHhcRKr840NOZARTtiJCmVrH9ejFooAjflKADbkIY2GelhKgZnubzGecp5zXxaM8']}>] 
+2023-01-26 17:18:17.821920] GET : <QueryDict: {}>] 
+2023-01-26 17:18:17.831921] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2320
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:18:28.612831] ======================== REQUEST ==============================] 
+2023-01-26 17:18:28.624837] Method : POST] 
+2023-01-26 17:18:28.633930] POST : <QueryDict: {'username': ['AnubhavSharma23'], 'email': ['VipulSharma@maxx.com'], 'password': ['VipulSharma@maxx.com'], 'confirmPassword': ['VipulSharma@maxx.com'], 'csrfmiddlewaretoken': ['v6eMZDF7liTmHY65KZ66wuYIjEEptB341KHaL4yHfkMM3FZsg4RFJfLdzvUHCnfT']}>] 
+2023-01-26 17:18:28.645750] GET : <QueryDict: {}>] 
+2023-01-26 17:18:28.654760] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2324
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+2023-01-26 17:18:36.249577] ======================== REQUEST ==============================] 
+2023-01-26 17:18:36.261577] Method : POST] 
+2023-01-26 17:18:36.272578] POST : <QueryDict: {'username': ['AnubhavSharma23456'], 'email': ['VipulSharma@maxx.com'], 'password': ['VipulSharma@maxx.com'], 'confirmPassword': ['VipulSharma@maxx.com'], 'csrfmiddlewaretoken': ['eYTmO0VuPNxJJpCs98O6IDtao7xHl4STKCmKArO4JPq956vPFdzFVogFEYNZuQ4I']}>] 
+2023-01-26 17:18:36.282576] GET : <QueryDict: {}>] 
+2023-01-26 17:18:36.293576] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2329
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+C:\Users\Anubhav.Sharma\Downloads\Fakebook\Fakebook\views.py changed, reloading.
+Watching for file changes with StatReloader
+2023-01-26 17:19:12.501583] ======================== REQUEST ==============================] 
+2023-01-26 17:19:12.512582] Method : POST] 
+2023-01-26 17:19:12.522608] POST : <QueryDict: {'username': ['AnubhavSharma23456'], 'email': ['VipulSharma@maxx.com'], 'password': ['VipulSharma@maxx.com'], 'confirmPassword': ['VipulSharma@maxx.com'], 'csrfmiddlewaretoken': ['eYTmO0VuPNxJJpCs98O6IDtao7xHl4STKCmKArO4JPq956vPFdzFVogFEYNZuQ4I']}>] 
+2023-01-26 17:19:12.532585] GET : <QueryDict: {}>] 
+2023-01-26 17:19:12.542533] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 200 2330
+"GET /static/css/navbar-style.css HTTP/1.1" 200 516
+"GET /static/js/lib/jquery.js HTTP/1.1" 200 300719
+"GET /static/js/lib/bootstrap.js HTTP/1.1" 200 78062
+"GET /static/css/lib/bootstrap.css HTTP/1.1" 200 187126
+"GET /static/js/lib/jquery-ui.js HTTP/1.1" 200 487212
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645
+"GET /static/images/applicationIcon.png HTTP/1.1" 200 1979
+2023-01-26 17:19:21.445127] ======================== REQUEST ==============================] 
+2023-01-26 17:19:21.458127] Method : POST] 
+2023-01-26 17:19:21.469135] POST : <QueryDict: {'username': ['AnubhavSharma2345667'], 'email': ['VipulSharma@maxx.com'], 'password': ['VipulSharma@maxx.com'], 'confirmPassword': ['VipulSharma@maxx.com'], 'csrfmiddlewaretoken': ['Qbb9qkKEJJu7tFpHH385jAPYQFxYKIaYmPExcLDeDLnxPmi4d8TEwlCt6wNgTumN']}>] 
+2023-01-26 17:19:21.480127] GET : <QueryDict: {}>] 
+2023-01-26 17:19:21.491129] ===================== END REQUEST =============================] 
+"POST /register/ HTTP/1.1" 302 0
+"GET /login HTTP/1.1" 301 0
+"GET /login/ HTTP/1.1" 200 1916
+"GET /static/css/lib/bootstrap.css.map HTTP/1.1" 200 411645

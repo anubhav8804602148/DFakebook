@@ -11,11 +11,6 @@ LOGIN_PAGE = "registration/login.html"
 logger = Logger("fakebook.log")
 
 
-def show_login_page(request, redirect_params=None):
-    logger.log_request(request)
-    return render(request, LOGIN_PAGE, redirect_params)
-
-
 def show_register_page(request):
     logger.log_request(request)
 
@@ -27,7 +22,7 @@ def show_register_page(request):
             validation_message = RegistrationForm(request.POST).validate()
             if validation_message == MSG_USERDATA_VALID:
                 request_data_to_user(request.POST).save()
-                return redirect("login")
+                return redirect("/login")
         except Exception as err:
             validation_message = str(err)
             logging.log(0, err)

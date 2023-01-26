@@ -25,7 +25,7 @@
     top:30vh;
     left:30vw;
     width:40vw;
-    height:50vh;
+    height:60vh;
     padding-left:5vw;
     padding-top:5vh;
     color:white;
@@ -33,3 +33,6 @@
     border:3px solid rgb(0,0,150);
 }
 
+.modal-view-box input{
+    margin:2vh;
+}
