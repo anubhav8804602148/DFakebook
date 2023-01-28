@@ -1,5 +1,5 @@
 <div id="add-application-modal">
-    <form class="modal-view-box">
+    <form class="modal-view-box" method="post" enctype="multipart/form-data">
         <label style="font-family:Georgia;
                       color:white;
                       font-size:20px;
@@ -8,13 +8,13 @@
         <table>
             <tbody>
                 <tr>
-                    <td>Application Name</td><td><input type="text"></td>
+                    <td>Application Name</td><td><input type="text" name="application_name"></td>
                 </tr>
                 <tr>
-                    <td>Application Url</td><td><input type="url"></td>
+                    <td>Application Path</td><td><input type="text" name="application_path"></td>
                 </tr>
                 <tr>
-                    <td>Application Logo</td><td><input type="file"></td>
+                    <td>Application Logo</td><td><input type="file" name="application_logo"></td>
                 </tr>
                 <tr>
                     <td style="padding:5vh">
@@ -30,5 +30,6 @@
                 </tr>
             </tbody>
         </table>
+        {% csrf_token %}
     </form>
 </div>
