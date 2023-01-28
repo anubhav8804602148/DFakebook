@@ -21,8 +21,18 @@
             <button onclick="show_add_application_modal()"><img src="{% static 'images/addApplicationIcon.png' %}"></button>
         </div>
         {% for app in app_list %}
+        <div class="app app-item">
+            <button><img
+                    class="application-logo"
+                    src="/{{app.application_logo}}"
+                    appName="{{app.application_name}}"
+                    appPath="{{app.application_path}}"
+                    appId="{{app.application_Id}}"></button>
+            <label class="app-item-label">{{app.application_name}}</label>
+        </div>
         {% endfor %}
     </div>
     {% include 'add-application-modal.html' %}
+    {% include 'application-context-menu.html' %}
 </body>
 </html>
