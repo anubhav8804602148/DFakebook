@@ -30,3 +30,10 @@
 .navbar-action-button{
     width:8vw;
 }
+.navbar-nav-item{
+    color:whitesmoke;
+    margin-left:20px;
+}
+.navbar-nav-item:hover{
+    color:#000000;
+}

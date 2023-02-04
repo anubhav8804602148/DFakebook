@@ -1,0 +1,32 @@
+.chat_box_user_page_tab{
+    display: inline;
+    border: 0.3vh solid #000099;
+    border-top-right-radius: 2vw;
+    border-top-left-radius: 0.5vw;
+    margin:0px;
+    height:10vh;
+    padding: 1vh;
+}
+#chat_box_user_pagination{
+    position: relative;
+    top:0px;
+    left:0px;
+    height:10vh;
+    width:90vw;
+    padding: 1vh;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+::-webkit-scrollbar {
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

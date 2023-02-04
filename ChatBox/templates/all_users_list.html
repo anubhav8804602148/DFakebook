@@ -1,0 +1,21 @@
+<div id="all_users_list"
+     style="position:absolute;
+            top:16vh;
+            left:80vw;
+            width:20vw;
+            height:84vh;
+            border-image: linear-gradient(#0000ddff, #0000dd00) 30;
+            border-width:2px;
+            border-style: solid;
+            background-color:whitesmoke;
+            overflow:auto;">
+    {% for user in all_users %}
+    <option value="{{user.username}}">
+        {% if user.fname %}
+        <label>{{user.fname}} {{user.lname}}</label>
+        {% else %}
+        <label>{{user.username}}</label>
+        {% endif %}
+    </option>
+    {% endfor %}
+</div>

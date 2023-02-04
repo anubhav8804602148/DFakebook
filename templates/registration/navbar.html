@@ -1,6 +1,11 @@
 <div id="fakebookNavbar">
     <label class="fakebook-header-label">Fakebook</label>
 
+    <a class="navbar-nav-item" href="/">Home</a>
+    <a class="navbar-nav-item" href="/application/all_apps">All apps</a>
+    <a class="navbar-nav-item" href="/ProfileManagement/">Profile Management</a>
+    <a class="navbar-nav-item" href="/ChatBox/">Chat Box</a>
+
     {% if request.user.is_authenticated %}
     <button style="float:right;margin:2vw;"
             class="btn btn-default navbar-action-button"

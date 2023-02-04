@@ -1,16 +1,24 @@
 from pathlib import Path
+import mimetypes
 
+mimetypes.add_type("text/javascript", ".js", True)
+mimetypes.add_type("text/html", ".html", True)
+mimetypes.add_type("text/css", ".css", True)
 BASE_DIR = Path(__file__).resolve().parent.parent
 LOGIN_REDIRECT_URL = '/application/all_apps'
 LOGOUT_REDIRECT_URL = '/login'
 SECRET_KEY = 'django-insecure-xue!ug6u5(3@w-_s@=n+0eqqy%uka=8zuy$*pp91ow$btr6nt2'
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "*"
+]
 
 INSTALLED_APPS = [
     'Fakebook',
     'ManageApplications',
+    'ProfileManagement',
+    'ChatBox',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -104,3 +112,6 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 USE_TZ = True
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+SESSION_EXPIRE_AT_BROWSER_CLOSE = False
+SESSION_COOKIE_AGE = 3600

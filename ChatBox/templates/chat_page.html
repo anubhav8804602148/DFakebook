@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <script src="{% static 'js/lib/jquery.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/lib/bootstrap.js' %}"></script>
+    <script src="{% static 'js/lib/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/lib/multiselect.js' %}"></script>
+    <script src="{% static 'js/all-apps.js' %}"></script>
+    <script src="{% static 'js/chat-box.js' %}"></script>
+    <link  rel="stylesheet" href="{% static 'css/lib/bootstrap.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/navbar-style.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/all-apps.css' %}" >
+    <link  rel="stylesheet" href="{% static 'css/chat-box.css' %}" >
+    <link rel="icon" href="{% static 'images/applicationIcon.png' %}">
+    <meta charset="UTF-8">
+    <title>ChatBox | Fakebook</title>
+</head>
+<body>
+    {% include 'registration/navbar.html' %}
+    <div style="position:absolute;
+                top:18vh;
+                height:max-content;
+                left:5vw;" id="all_chat_boxes_container">
+        <div id="chat_box_user_pagination">
+        {% for user in all_users_involved %}
+            <div class="chat_box_user_page_tab">
+                {{user}}
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+    {% include 'all_users_list.html' %}
+</body>
+</html>
